@@ -30,5 +30,5 @@ tags:
 
 ## See also
 
-- [Strategy](../../direction/strategy)
-- [Support model](../../operations/customer-operations/support-model)
+- [Strategy](../../direction/strategy.md)
+- [Support model](../../operations/customer-operations/support-model.md)

@@ -8,4 +8,4 @@ tags:
 
 # Tasks
 
-[Active Tasks](active) [Blocked Tasks](blocked)
+[Active Tasks](active.md) [Blocked Tasks](blocked.md)

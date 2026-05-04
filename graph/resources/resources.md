@@ -8,4 +8,4 @@ tags:
 
 # Resources
 
-[Graph](graph/graph) [Financial](financial/financial) [Infrastructure](infrastructure/infrastructure) [Contracts](contracts/contracts) [People](people/people)
+[Graph](graph/graph.md) [Financial](financial/financial.md) [Infrastructure](infrastructure/infrastructure.md) [Contracts](contracts/contracts.md) [People](people/people.md)

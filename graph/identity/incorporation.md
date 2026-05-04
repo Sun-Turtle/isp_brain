@@ -39,6 +39,6 @@ tags:
 
 ## See also
 
-- [Company Details](company-details)
-- [Incorporation setup project](../operations/projects/incorporation-setup)
-- [Filing calendar](../health/compliance/filing-calendar)
+- [Company Details](company-details.md)
+- [Incorporation setup project](../operations/projects/incorporation-setup.md)
+- [Filing calendar](../health/compliance/filing-calendar.md)

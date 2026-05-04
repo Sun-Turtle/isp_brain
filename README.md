@@ -4,7 +4,7 @@ Plain text knowledge graph for a lean UK ISP. 5 domains: identity, knowledge, de
 
 ## Manual Querying
 
-Start and traverse from [Index](graph/index)
+Start and traverse from [Index](graph/index.md)
 
 ## IWE Querying
 

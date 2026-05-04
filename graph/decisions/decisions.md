@@ -8,4 +8,4 @@ tags:
 
 # Decisions
 
-[Domain Structure: 5 Domains](domain-structure) [Decision Log](decision-log)
+[Domain Structure: 5 Domains](domain-structure.md) [Decision Log](decision-log.md)

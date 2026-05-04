@@ -27,5 +27,5 @@ tags:
 
 ## See also
 
-- [Company Details](company-details)
-- [Incorporation](incorporation)
+- [Company Details](company-details.md)
+- [Incorporation](incorporation.md)

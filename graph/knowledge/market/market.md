@@ -8,4 +8,4 @@ tags:
 
 # Market
 
-[Market Landscape](competitive-intelligence)
+[Market Landscape](competitive-intelligence.md)

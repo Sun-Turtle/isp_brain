@@ -39,5 +39,5 @@ tags:
 
 ## See also
 
-- [Incorporation](incorporation)
-- [Filing calendar](../health/compliance/filing-calendar)
+- [Incorporation](incorporation.md)
+- [Filing calendar](../health/compliance/filing-calendar.md)

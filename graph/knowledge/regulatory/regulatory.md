@@ -8,4 +8,4 @@ tags:
 
 # Regulatory
 
-[Ofcom General Conditions](ofcom-general-conditions)
+[Ofcom General Conditions](ofcom-general-conditions.md)

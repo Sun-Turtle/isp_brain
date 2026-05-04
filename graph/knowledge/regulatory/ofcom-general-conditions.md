@@ -38,6 +38,6 @@ A lean, reseller-only ISP that does not own fibre or cabinets avoids most physic
 
 ## See also
 
-- [Complaints Handling Policy](../policies/complaints-handling)
-- [Filing calendar](../../health/compliance/filing-calendar)
-- [Ofcom relationship](../../relationships/regulators/ofcom)
+- [Complaints Handling Policy](../policies/complaints-handling.md)
+- [Filing calendar](../../health/compliance/filing-calendar.md)
+- [Ofcom relationship](../../relationships/regulators/ofcom.md)

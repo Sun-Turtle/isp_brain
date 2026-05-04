@@ -8,4 +8,4 @@ tags:
 
 # Identity
 
-[Company Details](company-details) [Incorporation](incorporation) [Ownership](ownership)
+[Company Details](company-details.md) [Incorporation](incorporation.md) [Ownership](ownership.md)

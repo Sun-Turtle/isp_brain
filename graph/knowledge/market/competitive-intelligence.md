@@ -39,5 +39,5 @@ Other EU/UK "tiny ISP" stories exist; for this doc, A&A and Aquiss are the lead 
 
 ## See also
 
-- [Strategy](../../direction/strategy)
-- [Mission](../../direction/mission)
+- [Strategy](../../direction/strategy.md)
+- [Mission](../../direction/mission.md)

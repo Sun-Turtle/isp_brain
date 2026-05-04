@@ -57,6 +57,6 @@ source: extract_me.md
 
 ## See also
 
-- [Strategy](../../direction/strategy)
-- [Risk register](../../health/risks/risk-register)
-- [Network Assets](../infrastructure/network-assets)
+- [Strategy](../../direction/strategy.md)
+- [Risk register](../../health/risks/risk-register.md)
+- [Network Assets](../infrastructure/network-assets.md)

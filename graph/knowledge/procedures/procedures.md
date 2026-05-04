@@ -8,4 +8,4 @@ tags:
 
 # Procedures
 
-[Standard Operating Procedures](sop-index)
+[Standard Operating Procedures](sop-index.md)

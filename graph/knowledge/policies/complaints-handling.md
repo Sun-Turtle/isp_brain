@@ -51,5 +51,5 @@ AI / workflow bot → human (only when needed)
 
 ## See also
 
-- [Ofcom General Conditions](../regulatory/ofcom-general-conditions)
-- [Risk register](../../health/risks/risk-register)
+- [Ofcom General Conditions](../regulatory/ofcom-general-conditions.md)
+- [Risk register](../../health/risks/risk-register.md)

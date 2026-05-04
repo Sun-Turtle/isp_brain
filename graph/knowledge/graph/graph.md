@@ -13,4 +13,4 @@ We are using IWE knowledge graph system for this graph. See https://iwe.md.
 
 Syntax and resources are here:
 
-- [Graph](../../resources/graph/graph)
+- [Graph](../../resources/graph/graph.md)

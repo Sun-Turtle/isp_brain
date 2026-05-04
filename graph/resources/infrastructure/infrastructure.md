@@ -8,4 +8,4 @@ tags:
 
 # Infrastructure
 
-[Network Assets](network-assets)
+[Network Assets](network-assets.md)

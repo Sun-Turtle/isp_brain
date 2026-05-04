@@ -8,4 +8,4 @@ tags:
 
 # Financial
 
-[Financial Model](accounts)
+[Financial Model](accounts.md)
