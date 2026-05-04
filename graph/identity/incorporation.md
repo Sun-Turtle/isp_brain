@@ -1,0 +1,43 @@
+---
+status: draft
+priority: high
+tags:
+  - identity
+  - legal
+  - incorporation
+---
+
+# Incorporation
+
+## Steps
+
+1. Choose company name (check Companies House availability)
+2. Decide share structure
+3. Appoint director(s)
+4. Register with Companies House
+5. Receive certificate of incorporation
+6. Register for Corporation Tax with HMRC
+
+## Post-incorporation
+
+- Open business bank account
+- Register for VAT (if approaching threshold or advantageous)
+- Register with ICO (data protection)
+- Set up registered office address
+- Set up accounting records
+
+## Key decisions
+
+| Decision | Status |
+|---|---|
+| Company name | TBD |
+| Share classes | TBD |
+| Directors | TBD |
+| PSC (persons with significant control) | TBD |
+| SIC codes | 61900 (Other telecommunications activities) |
+
+## See also
+
+- [Company details](company-details.md)
+- [Incorporation setup project](../operations/projects/incorporation-setup.md)
+- [Filing calendar](../health/compliance/filing-calendar.md)
