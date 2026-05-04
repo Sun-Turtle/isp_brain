@@ -8,8 +8,8 @@ tags:
 
 # Index
 
-- [Identity](identity/identity.md)
-- [Knowledge](knowledge/knowledge.md)
-- [Decisions](decisions/decisions.md)
-- [Tasks](tasks/tasks.md)
-- [Resources](resources/resources.md)
+[Identity](identity/identity.md)
+[Knowledge](knowledge/knowledge.md)
+[Decisions](decisions/decisions.md)
+[Tasks](tasks/tasks.md)
+[Resources](resources/resources.md)

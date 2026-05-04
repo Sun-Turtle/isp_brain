@@ -8,4 +8,4 @@ tags:
 
 # Market
 
-- [Competitive Intelligence](competitive-intelligence.md)
+[Competitive Intelligence](competitive-intelligence.md)

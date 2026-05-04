@@ -8,5 +8,5 @@ tags:
 
 # Tasks
 
-- [Active](active.md)
-- [Blocked](blocked.md)
+[Active](active.md)
+[Blocked](blocked.md)

@@ -8,4 +8,4 @@ tags:
 
 # Technical
 
-- [Network Topology](network-topology.md)
+[Network Topology](network-topology.md)

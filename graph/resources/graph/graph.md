@@ -112,3 +112,21 @@ Most commands support `-f markdown | keys | json`.
 - 5 top-level domains: identity, knowledge, decisions, tasks, resources
 - All queries use `--filter` flag for frontmatter — bare positionals don't work
 - Links use relative paths (e.g. `regulatory/regulatory.md`)
+
+## Inclusion Links
+
+IWE uses **inclusion links** to define parent-child hierarchy: a bare markdown link on its own line.
+
+```markdown
+# Identity
+[Company Details](company-details.md)
+[Incorporation](incorporation.md)
+```
+
+Hub files use this to build the graph. "See also" sections use list-item links (`- [link]`) instead — those are cross-references, not structural relationships.
+
+Key difference:
+| Format | IWE treats as | Used for |
+|---|---|---|
+| `[Link](path)` (bare, own line) | Inclusion link — parent-child | Hub navigation, hierarchy |
+| `- [Link](path)` (in a list) | Inline reference | See also, cross-references |

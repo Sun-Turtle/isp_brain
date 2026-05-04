@@ -8,4 +8,4 @@ tags:
 
 # Policies
 
-- [Complaints Handling](complaints-handling.md)
+[Complaints Handling](complaints-handling.md)

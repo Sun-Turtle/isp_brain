@@ -8,4 +8,4 @@ tags:
 
 # Financial
 
-- [Accounts](accounts.md)
+[Accounts](accounts.md)

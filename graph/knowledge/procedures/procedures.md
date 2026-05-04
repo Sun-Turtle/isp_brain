@@ -8,4 +8,4 @@ tags:
 
 # Procedures
 
-- [SOP Index](sop-index.md)
+[SOP Index](sop-index.md)
