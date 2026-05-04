@@ -8,4 +8,5 @@ tags:
 
 # Decisions
 
+- [Domain Structure](domain-structure.md)
 - [Decision Log](decision-log.md)
