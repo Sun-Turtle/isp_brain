@@ -2,10 +2,10 @@
 status: active
 priority: medium
 tags:
-  - home
-  - market
+- home
+- market
 ---
 
 # Market
 
-[Competitive Intelligence](competitive-intelligence.md)
+[Market Landscape](competitive-intelligence)

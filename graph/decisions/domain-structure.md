@@ -2,9 +2,9 @@
 status: active
 priority: high
 tags:
-  - decision
-  - architecture
-  - graph-structure
+- decision
+- architecture
+- graph-structure
 ---
 
 # Domain Structure: 5 Domains
@@ -28,13 +28,14 @@ This made placement arbitrary and forced constant second-guessing. We ended up w
 
 Collapse to 5 domains with clearer, mutually exclusive boundaries:
 
-| Domain | Answers | What lives here |
-|---|---|---|
-| identity | Who are we? | Company details, incorporation, ownership |
-| knowledge | What do we need to know? | Facts, rules, context — regulatory, technical, market, policies, procedures, meta-graph docs |
-| decisions | What did we choose and why? | Architectural decisions, trade-offs, rationales |
-| tasks | What are we doing? | Active work, blockers, todos |
-| resources | What do we have? | Assets, tools, people, money, contracts, CLI references |
+| Domain    | Answers                     | What lives here                                                                              |
+| --------- | --------------------------- | -------------------------------------------------------------------------------------------- |
+| identity  | Who are we?                 | Company details, incorporation, ownership                                                    |
+| knowledge | What do we need to know?    | Facts, rules, context — regulatory, technical, market, policies, procedures, meta-graph docs |
+| decisions | What did we choose and why? | Architectural decisions, trade-offs, rationales                                              |
+| tasks     | What are we doing?          | Active work, blockers, todos                                                                 |
+| resources | What do we have?            | Assets, tools, people, money, contracts, CLI references                                      |
+
 
 The litmus test: if you can't decide which domain something goes in, it probably needs its own decision, or the thing itself is spanning concerns and should be split.
 

@@ -2,9 +2,9 @@
 status: active
 priority: high
 tags:
-  - policy
-  - customer-operations
-  - compliance
+- policy
+- customer-operations
+- compliance
 source: extract_me.md
 ---
 
@@ -12,10 +12,11 @@ source: extract_me.md
 
 ## Channel strategy
 
-| Channel | Cost vibe |
-|---|---|
-| Phone | 💸💸💸 |
+| Channel                        | Cost vibe  |
+| ------------------------------ | ---------- |
+| Phone                          | 💸💸💸        |
 | Chat · email · tickets · forum | ✅ scalable |
+
 
 Ultra-lean operators steer people to async channels. Humans answer hard things — not "have you tried turning it off and on again" 500×/day.
 
@@ -25,12 +26,13 @@ AI / workflow bot → human (only when needed)
 
 ### AI handles well
 
-| Task | Why it matters |
-|---|---|
-| WiFi vs line diagnosis | Most "slow internet" is in-home WiFi, not backhaul |
-| Line status / known outage checks | Deflects pointless tickets |
-| Router reboot / guided checks | Cheap wins before ££ humans |
-| Explaining sync vs throughput | Cuts repeat contacts |
+| Task                              | Why it matters                                     |
+| --------------------------------- | -------------------------------------------------- |
+| WiFi vs line diagnosis            | Most "slow internet" is in-home WiFi, not backhaul |
+| Line status / known outage checks | Deflects pointless tickets                         |
+| Router reboot / guided checks     | Cheap wins before ££ humans                        |
+| Explaining sync vs throughput     | Cuts repeat contacts                               |
+
 
 ### Self-service portal features
 
@@ -49,5 +51,5 @@ AI / workflow bot → human (only when needed)
 
 ## See also
 
-- [Ofcom General Conditions](../regulatory/ofcom-general-conditions.md)
-- [Risk register](../../health/risks/risk-register.md)
+- [Ofcom General Conditions](../regulatory/ofcom-general-conditions)
+- [Risk register](../../health/risks/risk-register)

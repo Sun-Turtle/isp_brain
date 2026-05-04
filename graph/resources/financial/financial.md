@@ -2,10 +2,10 @@
 status: active
 priority: medium
 tags:
-  - home
-  - financial
+- home
+- financial
 ---
 
 # Financial
 
-[Accounts](accounts.md)
+[Financial Model](accounts)

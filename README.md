@@ -1,16 +1,16 @@
 # isp_brain
 
-Plain text knowledge graph for a lean UK ISP. 5 domains: identity, knowledge, decisions, tasks, resources.
-Built using IWE and can be queried using IWE, or manually.
+Plain text knowledge graph for a lean UK ISP. 5 domains: identity, knowledge, decisions, tasks, resources. Built using IWE and can be queried using IWE, or manually.
 
 ## Manual Querying
-Start and traverse from [Index](graph/index.md)
+
+Start and traverse from [Index](graph/index)
 
 ## IWE Querying
 
 `--filter` is required for frontmatter queries — bare positionals don't work.
 
-```bash
+``` bash
 # List everything
 iwe find
 

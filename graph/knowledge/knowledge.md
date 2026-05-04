@@ -2,15 +2,10 @@
 status: active
 priority: high
 tags:
-  - home
-  - knowledge
+- home
+- knowledge
 ---
 
 # Knowledge
 
-[Regulatory](regulatory/regulatory.md)
-[Technical](technical/technical.md)
-[Market](market/market.md)
-[Policies](policies/policies.md)
-[Graph](graph/graph.md)
-[Procedures](procedures/procedures.md)
+[Regulatory](regulatory/regulatory) [Technical](technical/technical) [Market](market/market) [Policies](policies/policies) [Graph](graph/graph) [Procedures](procedures/procedures)

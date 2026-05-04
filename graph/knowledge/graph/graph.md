@@ -2,9 +2,9 @@
 status: active
 priority: medium
 tags:
-  - home
-  - graph
-  - architecture
+- home
+- graph
+- architecture
 ---
 
 # Graph
@@ -12,4 +12,5 @@ tags:
 We are using IWE knowledge graph system for this graph. See https://iwe.md.
 
 Syntax and resources are here:
-- [Syntax](../../resources/graph/graph.md)
+
+- [Graph](../../resources/graph/graph)

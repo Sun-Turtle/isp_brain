@@ -2,10 +2,10 @@
 status: active
 priority: medium
 tags:
-  - home
-  - people
+- home
+- people
 ---
 
 # People
 
-[Team Structure](team-structure.md)
+[People & Team](team-structure)

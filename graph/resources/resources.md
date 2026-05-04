@@ -2,14 +2,10 @@
 status: active
 priority: high
 tags:
-  - home
-  - resources
+- home
+- resources
 ---
 
 # Resources
 
-[Graph](graph/graph.md)
-[Financial](financial/financial.md)
-[Infrastructure](infrastructure/infrastructure.md)
-[Contracts](contracts/contracts.md)
-[People](people/people.md)
+[Graph](graph/graph) [Financial](financial/financial) [Infrastructure](infrastructure/infrastructure) [Contracts](contracts/contracts) [People](people/people)

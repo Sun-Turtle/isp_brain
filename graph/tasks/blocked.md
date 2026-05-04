@@ -2,8 +2,8 @@
 status: active
 priority: medium
 tags:
-  - tasks
-  - blocked
+- tasks
+- blocked
 ---
 
 # Blocked Tasks

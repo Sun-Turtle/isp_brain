@@ -2,22 +2,23 @@
 status: active
 priority: medium
 tags:
-  - people
-  - team
-  - hiring
+- people
+- team
+- hiring
 ---
 
 # People & Team
 
 ## Required roles
 
-| Role | Headcount | Notes |
-|---|---|---|
-| Founder / CEO | 1 | Overall direction, partnerships, compliance |
-| Engineer (automation + integrations) | ~1 | Full-stack automation, BSS/OSS integration |
-| Network engineer | ~0.5 | Part-time / shared initially |
-| Customer support | 2–3 | High leverage via AI tools |
-| Growth / marketing | ~1 | Community-first, performance-driven |
+| Role                                 | Headcount | Notes                                       |
+| ------------------------------------ | --------- | ------------------------------------------- |
+| Founder / CEO                        | 1         | Overall direction, partnerships, compliance |
+| Engineer (automation + integrations) | ~1        | Full-stack automation, BSS/OSS integration  |
+| Network engineer                     | ~0.5      | Part-time / shared initially                |
+| Customer support                     | 2–3       | High leverage via AI tools                  |
+| Growth / marketing                   | ~1        | Community-first, performance-driven         |
+
 
 **Ballpark total**: 5–8 people
 
@@ -29,5 +30,5 @@ tags:
 
 ## See also
 
-- [Strategy](../../direction/strategy.md)
-- [Support model](../../operations/customer-operations/support-model.md)
+- [Strategy](../../direction/strategy)
+- [Support model](../../operations/customer-operations/support-model)

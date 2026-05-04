@@ -2,21 +2,22 @@
 status: draft
 priority: medium
 tags:
-  - identity
-  - ownership
+- identity
+- ownership
 ---
 
 # Ownership
 
 ## Share structure
 
-| Detail | Status |
-|---|---|
-| Share classes | TBD |
-| Total shares | TBD |
-| Shareholders | TBD |
-| PSC register | TBD |
-| Articles of association | TBD |
+| Detail                  | Status |
+| ----------------------- | ------ |
+| Share classes           | TBD    |
+| Total shares            | TBD    |
+| Shareholders            | TBD    |
+| PSC register            | TBD    |
+| Articles of association | TBD    |
+
 
 ## Governance
 
@@ -26,5 +27,5 @@ tags:
 
 ## See also
 
-- [Company details](company-details.md)
-- [Incorporation](incorporation.md)
+- [Company Details](company-details)
+- [Incorporation](incorporation)

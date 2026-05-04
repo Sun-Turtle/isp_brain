@@ -2,10 +2,10 @@
 status: draft
 priority: medium
 tags:
-  - home
-  - procedures
+- home
+- procedures
 ---
 
 # Procedures
 
-[SOP Index](sop-index.md)
+[Standard Operating Procedures](sop-index)

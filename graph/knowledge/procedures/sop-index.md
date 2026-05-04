@@ -2,8 +2,8 @@
 status: draft
 priority: medium
 tags:
-  - knowledge
-  - procedures
+- knowledge
+- procedures
 ---
 
 # Standard Operating Procedures
@@ -14,11 +14,11 @@ Documented procedures for common operational tasks.
 
 ## Procedures
 
-_None yet — add as processes are defined._
+*None yet — add as processes are defined.*
 
 ## Entry template
 
-```markdown
+``` markdown
 ## Procedure: [Name]
 
 **Owner**: [Role]

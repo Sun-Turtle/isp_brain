@@ -2,11 +2,10 @@
 status: active
 priority: medium
 tags:
-  - home
-  - decisions
+- home
+- decisions
 ---
 
 # Decisions
 
-[Domain Structure](domain-structure.md)
-[Decision Log](decision-log.md)
+[Domain Structure: 5 Domains](domain-structure) [Decision Log](decision-log)

@@ -2,9 +2,9 @@
 status: active
 priority: high
 tags:
-  - regulatory
-  - ofcom
-  - compliance
+- regulatory
+- ofcom
+- compliance
 source: extract_me.md
 ---
 
@@ -16,26 +16,28 @@ A lean, reseller-only ISP that does not own fibre or cabinets avoids most physic
 
 ## Key obligations
 
-| Topic | Lean reseller relevance |
-|---|---|
-| USO | For end users & designated providers — not your wholesale entitlement |
+| Topic              | Lean reseller relevance                                                                       |
+| ------------------ | --------------------------------------------------------------------------------------------- |
+| USO                | For end users & designated providers — not your wholesale entitlement                         |
 | General Conditions | Retail service duties: contracts, complaints, info, switching where applicable, vulnerability |
-| UK GDPR / PECR | Data, marketing, AI logs — tight governance wins |
-| Telecoms security | Scope depends on architecture — verify early; don't assume "pure reseller = exempt" |
-| Consumer law | Price clarity & fairness — especially if you're cheap positioning |
+| UK GDPR / PECR     | Data, marketing, AI logs — tight governance wins                                              |
+| Telecoms security  | Scope depends on architecture — verify early; don't assume "pure reseller = exempt"           |
+| Consumer law       | Price clarity & fairness — especially if you're cheap positioning                             |
+
 
 ## Assumptions
 
-| # | Assumption | If wrong |
-|---|---|---|
-| A1 | Fixed broadband (+ optional VoIP) to consumers/SMEs in GB | Numbering, 999, product rules shift |
-| A2 | No owned access network; traffic on wholesale | Duties may widen |
-| A3 | Aggregator-first or lean direct CP | Economics & roadmap change |
-| A4 | AI = support/ops, not opaque automated underwriting | Regulatory heat |
-| A5 | Low cost = automation, not unlimited human SLAs | Margin fire |
+| #   | Assumption                                                | If wrong                            |
+| --- | --------------------------------------------------------- | ----------------------------------- |
+| A1  | Fixed broadband (+ optional VoIP) to consumers/SMEs in GB | Numbering, 999, product rules shift |
+| A2  | No owned access network; traffic on wholesale             | Duties may widen                    |
+| A3  | Aggregator-first or lean direct CP                        | Economics & roadmap change          |
+| A4  | AI = support/ops, not opaque automated underwriting       | Regulatory heat                     |
+| A5  | Low cost = automation, not unlimited human SLAs           | Margin fire                         |
+
 
 ## See also
 
-- [Complaints handling policy](../policies/complaints-handling.md)
-- [Filing calendar](../../health/compliance/filing-calendar.md)
-- [Ofcom relationship](../../relationships/regulators/ofcom.md)
+- [Complaints Handling Policy](../policies/complaints-handling)
+- [Filing calendar](../../health/compliance/filing-calendar)
+- [Ofcom relationship](../../relationships/regulators/ofcom)

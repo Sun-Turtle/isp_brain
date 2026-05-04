@@ -2,8 +2,8 @@
 status: active
 priority: high
 tags:
-  - tasks
-  - active
+- tasks
+- active
 ---
 
 # Active Tasks

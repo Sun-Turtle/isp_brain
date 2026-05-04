@@ -2,8 +2,8 @@
 status: draft
 priority: medium
 tags:
-  - resources
-  - contracts
+- resources
+- contracts
 ---
 
 # Contracts Register
@@ -11,15 +11,17 @@ tags:
 ## Active contracts
 
 | Party | Type | Status | Renewal |
-|---|---|---|---|
-| — | — | — | — |
+| ----- | ---- | ------ | ------- |
+| —     | —    | —      | —       |
+
 
 ## Pending
 
-| Party | Type | Status | Notes |
-|---|---|---|---|
-| BT Wholesale | Wholesale aggregation | Evaluation | Initial discussions pending |
-| OSS/BSS vendor | Platform | Research | e.g. Splynx, Sonar |
+| Party          | Type                  | Status     | Notes                       |
+| -------------- | --------------------- | ---------- | --------------------------- |
+| BT Wholesale   | Wholesale aggregation | Evaluation | Initial discussions pending |
+| OSS/BSS vendor | Platform              | Research   | e.g. Splynx, Sonar          |
+
 
 ## Notes
 

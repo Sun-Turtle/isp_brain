@@ -2,14 +2,10 @@
 status: active
 priority: critical
 tags:
-  - home
-  - index
+- home
+- index
 ---
 
 # Index
 
-[Identity](identity/identity.md)
-[Knowledge](knowledge/knowledge.md)
-[Decisions](decisions/decisions.md)
-[Tasks](tasks/tasks.md)
-[Resources](resources/resources.md)
+[Identity](identity/identity) [Knowledge](knowledge/knowledge) [Decisions](decisions/decisions) [Tasks](tasks/tasks) [Resources](resources/resources)

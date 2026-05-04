@@ -2,10 +2,10 @@
 status: active
 priority: high
 tags:
-  - home
-  - policies
+- home
+- policies
 ---
 
 # Policies
 
-[Complaints Handling](complaints-handling.md)
+[Complaints Handling Policy](complaints-handling)

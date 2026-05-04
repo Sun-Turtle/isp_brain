@@ -2,10 +2,10 @@
 status: draft
 priority: medium
 tags:
-  - home
-  - infrastructure
+- home
+- infrastructure
 ---
 
 # Infrastructure
 
-[Network Assets](network-assets.md)
+[Network Assets](network-assets)

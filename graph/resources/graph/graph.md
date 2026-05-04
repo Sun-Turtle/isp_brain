@@ -2,9 +2,9 @@
 status: active
 priority: medium
 tags:
-  - home
-  - graph
-  - cli
+- home
+- graph
+- cli
 ---
 
 # Graph
@@ -12,7 +12,8 @@ tags:
 CLI reference, setup instructions, and conventions for working with this IWE knowledge graph.
 
 ## Docs/Links
-```bash
+
+``` bash
 # Docs
 https://github.com/iwe-org/iwe
 https://iwe.md/docs/
@@ -23,21 +24,21 @@ https://github.com/iwe-org/seventeen-centuries
 ```
 
 ## Installation
-```bash
+
+``` bash
 brew tap iwe-org/iwe
 brew install iwe
 ```
 
-
 ## Setup
 
-```bash
+``` bash
 iwe init                    # Initialize project (if not already done)
 ```
 
 ## Creating Documents
 
-```bash
+``` bash
 iwe new "Title"                           # Create from default template
 iwe new "Title" --content "Body text"     # With inline content
 iwe new "Title" --edit                    # Open in $EDITOR
@@ -48,7 +49,7 @@ Template variables: `{{title}}`, `{{slug}}`, `{{today}}`, `{{id}}`, `{{content}}
 
 ## Finding Documents
 
-```bash
+``` bash
 iwe find                                  # List all docs
 iwe find --filter 'status: active'        # Filter by frontmatter
 iwe find --filter 'tags: home'            # Filter by array tag
@@ -59,7 +60,7 @@ iwe find -f keys                          # Output keys for piping
 
 ## Counting
 
-```bash
+``` bash
 iwe count --filter 'status: active'
 iwe count --filter 'tags: regulatory'
 iwe count --filter '$or: [{tags: risk}, {tags: compliance}]'
@@ -67,7 +68,7 @@ iwe count --filter '$or: [{tags: risk}, {tags: compliance}]'
 
 ## Document Tree
 
-```bash
+``` bash
 iwe tree                                  # Show full hierarchy
 iwe tree -k doc-key                       # Tree from specific doc
 iwe tree -d 2                             # Limit depth
@@ -75,7 +76,7 @@ iwe tree -d 2                             # Limit depth
 
 ## Graph Queries
 
-```bash
+``` bash
 iwe find --references graph/index         # Docs referenced by index
 iwe find --referenced-by graph/index      # Docs that reference index
 iwe find --includes graph/direction       # Inclusion links
@@ -86,7 +87,7 @@ Depth flags: `--max-depth N`, `--max-distance N` (0 = unbounded)
 
 ## Refactoring
 
-```bash
+``` bash
 iwe extract doc-key --section "Title"     # Extract section to new doc
 iwe inline doc-key --reference "ref-key"  # Inline a referenced doc
 iwe rename old-key new-key                # Rename + update refs
@@ -95,7 +96,7 @@ iwe delete doc-key                        # Delete doc
 
 ## Maintenance
 
-```bash
+``` bash
 iwe normalize                             # Fix formatting
 iwe stats                                 # Graph statistics
 iwe export dot                            # Export as Graphviz DOT
@@ -117,7 +118,7 @@ Most commands support `-f markdown | keys | json`.
 
 IWE uses **inclusion links** to define parent-child hierarchy: a bare markdown link on its own line.
 
-```markdown
+``` markdown
 # Identity
 [Company Details](company-details.md)
 [Incorporation](incorporation.md)
@@ -126,7 +127,9 @@ IWE uses **inclusion links** to define parent-child hierarchy: a bare markdown l
 Hub files use this to build the graph. "See also" sections use list-item links (`- [link]`) instead — those are cross-references, not structural relationships.
 
 Key difference:
-| Format | IWE treats as | Used for |
-|---|---|---|
-| `[Link](path)` (bare, own line) | Inclusion link — parent-child | Hub navigation, hierarchy |
-| `- [Link](path)` (in a list) | Inline reference | See also, cross-references |
+
+| Format                          | IWE treats as                 | Used for                   |
+| ------------------------------- | ----------------------------- | -------------------------- |
+| `[Link](path)` (bare, own line) | Inclusion link — parent-child | Hub navigation, hierarchy  |
+| `- [Link](path)` (in a list)    | Inline reference              | See also, cross-references |
+

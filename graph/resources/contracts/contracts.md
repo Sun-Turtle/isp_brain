@@ -2,10 +2,10 @@
 status: draft
 priority: medium
 tags:
-  - home
-  - contracts
+- home
+- contracts
 ---
 
 # Contracts
 
-[Contracts Register](contracts-register.md)
+[Contracts Register](contracts-register)
