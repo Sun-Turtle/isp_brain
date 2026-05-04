@@ -1,6 +1,15 @@
-# isp_brain
+# ISP Brain
 
-Plain text knowledge graph for a lean UK ISP. 5 domains: identity, knowledge, decisions, tasks, resources. Built using IWE and can be queried using IWE, or manually.
+A human/agentic brain for a hypothetical ISP in the UK.
+
+Plain text knowledge graph for a lean UK ISP. 5 domains: 
+- identity
+- knowledge
+- decisions
+- tasks
+- resources
+
+Built using [IWE](https://github.com/iwe-org/iwe). Can be interacted with by opening files manually, or using the `iwe` CLI.
 
 ## Manual Querying
 
@@ -8,17 +17,24 @@ Start and traverse from [Index](graph/index.md)
 
 ## IWE Querying
 
-`--filter` is required for frontmatter queries — bare positionals don't work.
+IWE is a markdown-based memory knowledge graph system. You can install it to allow more powerful interactions with the knowledge graph.
 
 ``` bash
+# Mac install
+brew tap iwe-org/iwe
+brew install iwe
+
+# navigate to repo
+cd /path/to/isp_brain
+
 # List everything
 iwe find
 
 # Filter by frontmatter
 iwe find --filter 'status: active'
 
-# Filter by tag (array membership)
-iwe find --filter 'tags: home'
+# Show tree
+iwe tree
 
 # Walk from a hub node
 iwe find --referenced-by graph/index --max-distance 3 --project title
