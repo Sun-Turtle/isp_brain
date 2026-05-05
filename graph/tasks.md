@@ -2,10 +2,11 @@
 status: active
 priority: medium
 tags:
-- home
-- tasks
+  - home
+  - tasks
 ---
 
 # Tasks
 
-[Active Tasks](active.md) [Blocked Tasks](blocked.md)
+[Active Tasks](tasks/active.md)
+[Blocked Tasks](tasks/blocked.md)

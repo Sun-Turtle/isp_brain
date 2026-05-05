@@ -34,6 +34,6 @@ Functions covered: signup → billing → line activation → router workflows �
 
 ## See also
 
-- [Network Topology](../../knowledge/technical/network-topology.md)
+- [Network Topology](../knowledge/technical-network-topology.md)
 - [Router strategy](../../operations/tasks/active.md)
 - [BT Wholesale](../../relationships/suppliers/bt-wholesale.md)

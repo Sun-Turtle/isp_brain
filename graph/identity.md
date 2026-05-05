@@ -2,10 +2,12 @@
 status: active
 priority: high
 tags:
-- home
-- identity
+  - home
+  - identity
 ---
 
 # Identity
 
-[Company Details](company-details.md) [Incorporation](incorporation.md) [Ownership](ownership.md)
+[Company Details](identity/company-details.md)
+[Incorporation](identity/incorporation.md)
+[Ownership](identity/ownership.md)

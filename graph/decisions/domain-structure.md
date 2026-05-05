@@ -44,6 +44,7 @@ The litmus test: if you can't decide which domain something goes in, it probably
 - Keep 7 domains with clearer definitions — but the overlap was structural, not definitional
 - Flat namespace (no domains) — loses navigability
 - Tag-based navigation only — IWE supports this, but directory hierarchy is still useful for human browsing and `iwe tree`
+- Flat namespace with prefix naming — see [File Naming Convention: Flat Structure](flat-file-convention.md)
 
 ## Impact
 

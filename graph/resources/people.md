@@ -8,4 +8,4 @@ tags:
 
 # People
 
-[People & Team](team-structure.md)
+[People & Team](people-team-structure.md)

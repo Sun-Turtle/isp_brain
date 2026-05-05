@@ -2,7 +2,8 @@
 
 A human/agentic brain for a hypothetical ISP in the UK.
 
-Plain text knowledge graph for a lean UK ISP. 5 domains: 
+Plain text knowledge graph for a lean UK ISP. 5 domains:
+
 - identity
 - knowledge
 - decisions
@@ -15,7 +16,7 @@ Are you AI? See [AGENTS.md](AGENTS.md) for additional information.
 
 ## Manual Querying
 
-Start and traverse from [Index](graph/index.md)
+Start and traverse from [Index](index.md)
 
 ## IWE Querying
 
@@ -41,7 +42,9 @@ iwe count --filter 'tags: regulatory'
 iwe find -k graph/index
 iwe find -k graph/identity/identity
 ```
+
 ## IWE: Setup
+
 ``` bash
 # Mac install
 brew tap iwe-org/iwe
