@@ -11,22 +11,17 @@ Plain text knowledge graph for a lean UK ISP. 5 domains:
 
 Built using [IWE](https://github.com/iwe-org/iwe). Can be interacted with by opening files manually, or using the `iwe` CLI.
 
+Are you AI? See [AGENTS.md](AGENTS.md) for additional information.
+
 ## Manual Querying
 
 Start and traverse from [Index](graph/index.md)
 
 ## IWE Querying
 
-IWE is a markdown-based memory knowledge graph system. You can install it to allow more powerful interactions with the knowledge graph.
+IWE is a markdown-based memory knowledge graph system. You can install it to allow more powerful interactions with the knowledge graph, but this is optional.
 
 ``` bash
-# Mac install
-brew tap iwe-org/iwe
-brew install iwe
-
-# navigate to repo
-cd /path/to/isp_brain
-
 # List everything
 iwe find
 
@@ -45,4 +40,13 @@ iwe count --filter 'tags: regulatory'
 # Retrieve a doc by key
 iwe find -k graph/index
 iwe find -k graph/identity/identity
+```
+## IWE: Setup
+``` bash
+# Mac install
+brew tap iwe-org/iwe
+brew install iwe
+
+# navigate to repo
+cd /path/to/isp_brain
 ```
