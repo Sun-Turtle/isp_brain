@@ -39,5 +39,5 @@ A lean, reseller-only ISP that does not own fibre or cabinets avoids most physic
 ## See also
 
 - [Complaints Handling Policy](policies-complaints-handling.md)
-- [Filing calendar](../../health/compliance/filing-calendar.md)
-- [Ofcom relationship](../../relationships/regulators/ofcom.md)
+- [Regulatory hub](regulatory.md)
+- [Making a Reseller ISP Resource](../resources/research-making-a-reseller-isp.md)

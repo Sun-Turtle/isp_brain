@@ -6,24 +6,39 @@ You are an AI agent working with the ISP Brain knowledge graph.
 
 - `index.md` lives at project root
 - 5 domain dirs under `graph/`: `identity/`, `knowledge/`, `decisions/`, `tasks/`, `resources/`
-- One level of directories only — no subdirectories within domains
-- Files follow prefix naming: `topic-subtopic-descriptor.md` (e.g. `regulatory-ofcom-general-conditions.md`)
-- Hub pages sit at `graph/{domain}.md` (e.g. `graph/identity.md`, `graph/knowledge.md`) — one level above their children for visibility
-- Child files live inside `graph/{domain}/` (e.g. `graph/identity/company-details.md`)
-- "See also" use list-item links (`- [link](path.md)`) — cross-references, not structural
-- Config in `.iwe/config.toml` — `refs_extension = ".md"`
+- Hub pages sit at `graph/{domain}.md` — one level above their children
+- Child files live inside `graph/{domain}/`, no subdirectories
+- Files follow prefix naming: `topic-subtopic-descriptor.md`
+- Inclusion links (bare `[link](path.md)` on own line) = parent-child relationships
+- List-item links (`- [link]`) = cross-references only
 
-## IWE CLI
+## Golden rules
 
-``` bash
+- **Do not duplicate** resource content into knowledge — add context and labeling instead
+- **Link everything** — every file should link back to at least one hub, and link to related content
+- **Log decisions that matter** — structural/business choices with trade-offs; skip file edits or git pushes
+- **Descriptions short, context generous** — why, when, by whom, what relationships
+- **Be opinionated** — point out what looks broken/not optimised
+
+## Conventions
+
+- [Operating conventions](graph/knowledge/graph-conventions.md) — workflows, normalize fixup, split guidelines
+- [Frontmatter schema](graph/knowledge/graph-frontmatter-schema.md) — valid status, priority, tag values
+- [File naming decision](graph/decisions/flat-file-convention.md) — why we chose this structure
+
+## Personas
+
+Adopt a persona for focused work:
+
+- [**Crystallise**](graph/identity/personas.md) — deduplicate, condense, link instead of duplicate
+- [**Maintainer**](graph/identity/personas.md) — fix links, syntax, metadata, IWE feature audit
+
+## Quick CLI
+
+```bash
 iwe find                         # List all docs
 iwe tree                         # Show hierarchy
 iwe find -k index                # Get index doc
 iwe find --filter 'tags: home'   # Filter by frontmatter
+iwe find -k graph/conventions    # Operating conventions (IWE key = path)
 ```
-
-## Conventions
-
-- YAML frontmatter with `status`, `priority`, `tags` on every doc
-- Links use `.md` extension, relative from source file location
-- Split files when they exceed ~10,000 chars or ~300 lines

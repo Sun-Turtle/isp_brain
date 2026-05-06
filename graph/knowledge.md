@@ -19,3 +19,5 @@ tags:
 [Procedures](knowledge/procedures.md)
 [Standard Operating Procedures](knowledge/procedures-sop-index.md)
 [Graph](knowledge/graph-iwe.md)
+[The Five Domains](knowledge/domains.md)
+[Research Index](knowledge/research-index.md)

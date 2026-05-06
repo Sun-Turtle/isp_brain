@@ -30,5 +30,5 @@ tags:
 
 ## See also
 
-- [Strategy](../../direction/strategy.md)
-- [Support model](../../operations/customer-operations/support-model.md)
+- [People hub](people.md)
+- [Decisions](../decisions.md)

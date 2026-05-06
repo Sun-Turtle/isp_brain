@@ -57,4 +57,3 @@ Goal: minimal human touches on routine paths; humans for edge and angry.
 ## See also
 
 - [Network Assets](../resources/infrastructure-network-assets.md)
-- [Openreach supplier relationship](../../relationships/suppliers/openreach.md)

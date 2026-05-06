@@ -26,16 +26,15 @@ This made placement arbitrary and forced constant second-guessing. We ended up w
 
 ## Decision
 
-Collapse to 5 domains with clearer, mutually exclusive boundaries:
+Collapse to 5 domains with clearer, mutually exclusive boundaries. See [The Five Domains](../knowledge/domains.md) for the full philosophical framing.
 
-| Domain    | Answers                     | What lives here                                                                              |
-| --------- | --------------------------- | -------------------------------------------------------------------------------------------- |
-| identity  | Who are we?                 | Company details, incorporation, ownership                                                    |
+| Domain    | Answers                     | Summary |
+| --------- | --------------------------- | ------- |
+| identity  | Who are we?                 | Company details, incorporation, ownership |
 | knowledge | What do we need to know?    | Facts, rules, context — regulatory, technical, market, policies, procedures, meta-graph docs |
-| decisions | What did we choose and why? | Architectural decisions, trade-offs, rationales                                              |
-| tasks     | What are we doing?          | Active work, blockers, todos                                                                 |
-| resources | What do we have?            | Assets, tools, people, money, contracts, CLI references                                      |
-
+| decisions | What did we choose and why? | Architectural decisions, trade-offs, rationales |
+| tasks     | What are we doing?          | Active work, blockers, todos |
+| resources | What do we have?            | Assets, tools, people, money, contracts, CLI references |
 
 The litmus test: if you can't decide which domain something goes in, it probably needs its own decision, or the thing itself is spanning concerns and should be split.
 

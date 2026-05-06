@@ -11,6 +11,8 @@ tags:
 
 We are using IWE knowledge graph system for this graph. See https://iwe.md.
 
+[Graph Conventions](graph-conventions.md)
+
 Syntax and resources are here:
 
-- [Graph](../resources/graph.md)
+- [Graph CLI Reference](../resources/graph.md)
