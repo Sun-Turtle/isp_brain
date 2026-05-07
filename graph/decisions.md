@@ -9,5 +9,6 @@ tags:
 # Decisions
 
 [Domain Structure: 5 Domains](decisions/domain-structure.md)
+[Company Structure: CLG](decisions/company-structure-clg.md)
 [Decision Log](decisions/decision-log.md)
 [File Naming Convention](decisions/flat-file-convention.md)

@@ -22,7 +22,7 @@ Vibe: AI-first ops, people where it matters, not a 1990s telco cosplay
 
 1. USO ≠ "they must wholesale to us". The universal service obligation is about designated providers serving qualifying end users — not about guaranteeing your wholesale deal.
 2. The winning shape is "ISP as a software company". Wholesale network → automation → self-service → tiny human layer.
-3. Lead UK references: Andrews & Arnold (A&A) and Aquiss — niche, technical, automation-friendly cultures — not "me-too big bundle telcos".
+3. Lead UK references: Andrews & Arnold (A&A), Aquiss, and Green ISP — niche, technical, automation-friendly cultures — not "me-too big bundle telcos". Green ISP (2-person team, not-for-profit, solar-powered) proves tiny headcount ISPs are viable.
 
 ## Executive summary (regulatory + commercial)
 

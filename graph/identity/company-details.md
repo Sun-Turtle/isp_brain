@@ -10,13 +10,14 @@ tags:
 
 ## Legal entity
 
-| Field              | Value                       |
-| ------------------ | --------------------------- |
-| Company name       | TBD                         |
-| Company number     | TBD (pending incorporation) |
-| Registered office  | TBD                         |
-| Jurisdiction       | England and Wales           |
-| Incorporation date | TBD                         |
+| Field              | Value                                                         |
+| ------------------ | ------------------------------------------------------------- |
+| Company name       | TBD                                                           |
+| Company number     | TBD (pending incorporation)                                   |
+| Registered office  | TBD                                                           |
+| Jurisdiction       | England and Wales                                             |
+| Incorporation date | TBD                                                           |
+| Structure          | Company Limited by Guarantee (CLG) — see [decision](../decisions/company-structure-clg.md) |
 
 
 ## Tax
@@ -40,3 +41,5 @@ tags:
 ## See also
 
 - [Incorporation](incorporation.md)
+- [Company Types (Knowledge)](../knowledge/company-types.md)
+- [Company Structure Decision](../decisions/company-structure-clg.md)

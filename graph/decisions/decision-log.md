@@ -19,6 +19,10 @@ tags:
 **Alternatives**: What else was considered
 ```
 
+## 2026-05-06: Company structure — CLG
+
+**Context**: Sun Turtle Internet needed a legal structure. Three models evaluated: standard Ltd, CIC, and CLG. **Decision**: Company Limited by Guarantee — no shares, no shareholders, profits reinvested. **Rationale**: Matches the ethos structurally (not just marketed). Green ISP validates the model — running profitably as a CLG since 2003 on Openreach. **Alternatives**: Ltd (legal duty to maximise shareholder value contradicts mission), CIC (adds CIC Regulator overhead a 5-person team doesn't need). **Details**: See [Company Structure: CLG](company-structure-clg.md).
+
 ## 2026-05-05: Flat file naming convention
 
 **Context**: Deep nesting caused git diff noise and placement deliberation. **Decision**: Adopt flat structure — one level of domain dirs, files named `topic-subtopic-descriptor.md`. **Rationale**: Cleaner diffs, no subdirectory decisions, `iwe tree` handles discovery. **Details**: See [File Naming Convention: Flat Structure](flat-file-convention.md).
