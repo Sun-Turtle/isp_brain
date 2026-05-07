@@ -14,13 +14,30 @@ Incorporating a CLG is the same process as a standard Ltd — £12 online, 24-48
 
 ## Requirements
 
-- Unique company name (check Companies House availability first)
+- Unique company name — must end in "Limited" for a CLG (check Companies House availability first). Exemption from "Limited" is available but only for charities. We use "Sun Turtle Internet Limited."
 - Registered office address in England & Wales (can be a home address or agent)
 - At least one director (at least 16, not disqualified)
 - At least one member (guarantor) — typically the same person as the director
 - Articles of Association (see [separate doc](company-clg-articles-of-association.md))
 - Memorandum of Association (standard template, signed by members)
 - IN01 form filed online
+
+## Memorandum of Association
+
+The memorandum is the shortest document you file — not the long contract Green ISP has. Green ISP incorporated in 2003 under the Companies Act 1985, which required the memorandum to contain objects, powers, and member liability. Since the Companies Act 2006, the memorandum is a standard-form statement only:
+
+> **Memorandum of Association**
+> Companies Act 2006
+> Company Limited by Guarantee
+>
+> Each subscriber to this memorandum of association wishes to form a company under the Companies Act 2006 and agrees to become a member of the company.
+>
+> **Name of subscriber** | **Authentication**
+> [NAME] | [signature]
+
+That's it. All substantive governance moved to the articles of association under the 2006 Act.
+
+Green ISP's long memorandum is the old law (Companies Act 1985). If you see a long memorandum today, it's either pre-2009 or the person used an outdated template.
 
 ## Cost
 

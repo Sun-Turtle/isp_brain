@@ -63,7 +63,7 @@ If the company is dissolved, any remaining assets must be transferred to another
 
 ## Model articles from gov.uk
 
-Gov.uk publishes model articles for companies limited by guarantee (Companies Act 2006). Free to use. Download from gov.uk/guidance/model-articles.
+[Full model articles for CLGs](../resources/model-articles-clg.md) — scraped from GOV.UK. Free to use, Schedule 2 Regulation 3 of the Companies Act 2006. 39 articles covering interpretation, directors (powers, meetings, appointments), members, voting, admin, and indemnity.
 
 ### Latest version: for companies incorporated on or after 28 April 2013
 

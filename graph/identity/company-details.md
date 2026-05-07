@@ -12,7 +12,7 @@ tags:
 
 | Field              | Value                                                         |
 | ------------------ | ------------------------------------------------------------- |
-| Company name       | TBD                                                           |
+| Company name       | Sun Turtle Internet Limited                                   |
 | Company number     | TBD (pending incorporation)                                   |
 | Registered office  | TBD                                                           |
 | Jurisdiction       | England and Wales                                             |

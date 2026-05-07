@@ -9,6 +9,7 @@ tags:
 # Resources
 
 [Graph](resources/graph.md)
+[Model Articles for CLG](resources/model-articles-clg.md)
 [Sun Turtle Playbook](resources/research-sun-turtle-playbook.md)
 [Making a Reseller ISP](resources/research-making-a-reseller-isp.md)
 [BUPA Articles of Association](resources/bupa-articles-of-association.md)

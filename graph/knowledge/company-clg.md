@@ -19,6 +19,7 @@ Green ISP used this structure. Founded 2003, ~2 staff, still running on Openreac
 - **Members, not shareholders** — members control the company, typically the same people as directors. No requirement to make employees or customers members.
 - **Not-for-profit, not a charity** — directors draw a salary. Surplus gets reinvested. No Charity Commission unless you also register as a charity.
 - **Flexible post-incorporation** — members, address, and name can all be changed easily after incorporation.
+- **does not need a bank account** to be incorporated with Companies House. You can legally form the company first, and open the bank account afterwards. Bank only needed once you accept/pay money etc.
 
 ## Two things you file to incorporate
 
