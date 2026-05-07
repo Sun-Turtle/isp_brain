@@ -82,6 +82,16 @@ A CLG doesn't need startup capital from outside investors because the costs are 
 
 Founder puts money in as a director's loan. Revenue repays it. No equity given up.
 
+## CLG flexibility after incorporation
+
+All key details are adjustable:
+
+- **Members**: can be added or removed at any time via the internal register of members. No mid-year Companies House filing — just reflect changes on the next annual confirmation statement.
+- **Registered address**: file an AD01 form online (£0, 24-48 hours). Can change the day after incorporation.
+- **Company name**: directors pass a resolution, members approve, file NM01 form (£8 standard, £15 same-day). Must check name availability first.
+
+The only thing that's genuinely hard to undo is choosing the wrong company type — switching a CLG to a Ltd requires dissolving and re-forming.
+
 ## See also
 
 - [Company Structure: CLG](../decisions/company-structure-clg.md)

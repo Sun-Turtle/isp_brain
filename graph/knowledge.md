@@ -18,7 +18,7 @@ tags:
 [Complaints Handling Policy](knowledge/policies-complaints-handling.md)
 [Procedures](knowledge/procedures.md)
 [Standard Operating Procedures](knowledge/procedures-sop-index.md)
-[Company Types](knowledge/company-types.md)
+[Company](knowledge/company.md)
 [Graph](knowledge/graph-iwe.md)
 [The Five Domains](knowledge/domains.md)
 [Research Index](knowledge/research-index.md)
