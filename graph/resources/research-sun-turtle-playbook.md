@@ -289,4 +289,4 @@ Default for "as lean as possible": aggregator first → prove economics → opti
 
 ## See also
 
-- [Making a Reseller ISP — Legal & Regulatory Guide](research-making-a-reseller-isp.md)
+- [Making a Reseller ISP — Legal & Regulatory Guide](research-company-making-a-reseller-isp.md)

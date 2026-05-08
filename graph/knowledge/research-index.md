@@ -14,7 +14,7 @@ Context index for research materials stored in resources. These are full documen
 
 ## Sun Turtle Playbook
 
-- **Where**: [Sun Turtle Playbook — Ultra-Lean UK ISP](../resources/research-sun-turtle-playbook.md)
+- **Where**: [Sun Turtle Playbook — Ultra-Lean UK ISP](../resources/research-company-sun-turtle-playbook.md)
 - **When**: Retrieved May 2026
 - **By**: AI-generated research for ISP Brain project
 - **Context**: Strategic playbook for a reseller-only, AI-first UK ISP. Covers team shape, wholesale architecture, OSS/BSS stack, AI support strategy, risk register.
@@ -23,7 +23,7 @@ Context index for research materials stored in resources. These are full documen
 
 ## Making a Reseller ISP — Legal & Regulatory Guide
 
-- **Where**: [Making a Reseller ISP — Legal & Regulatory Guide](../resources/research-making-a-reseller-isp.md)
+- **Where**: [Making a Reseller ISP — Legal & Regulatory Guide](../resources/research-company-making-a-reseller-isp.md)
 - **When**: Retrieved May 2026
 - **By**: AI-generated research for ISP Brain project
 - **Context**: Comprehensive step-by-step guide covering incorporation (Companies House), Ofcom registration, regulatory compliance (Communications Act, NIS, TSA, GDPR, PECR), ISPA membership, ISO 27001.

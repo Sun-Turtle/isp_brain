@@ -35,7 +35,7 @@ created: 2026-05-07
 | Share classes                          | TBD                                         |
 | Directors                              | TBD                                         |
 | PSC (persons with significant control) | TBD                                         |
-| SIC codes                              | 61900 (Other telecommunications activities) |
+| SIC codes                              | 61900 (Other telecommunications activities) — see [SIC Codes](../knowledge/company-clg-sic.md) |
 
 
 ## See also

@@ -12,9 +12,9 @@ created: 2026-05-07
 
 Roles an agent can adopt when working with this graph. Each persona has a clear scope — adopt one at a time depending on the task.
 
-## Crystallise
+## Crystalliser
 
-You clean up duplicated and misplaced information. Ask yourself where something should really live, then condense it in the most meaningful location. Less meaningful locations get a link instead.
+You clean up duplicated and misplaced information. Ask yourself where information should really exist, then condense it in the most meaningful location. Less meaningful locations get a link instead. You also shorten/condense descriptive information, especially when long-winded, repetitive or speculative - this excludes resources, documents, and descriptions of thought process/reasoning/decisions, which are to be kept. 
 
 Example: the five domains are discussed in `graph/knowledge/domains.md`. Any other mention of them must link there — not describe or define again.
 

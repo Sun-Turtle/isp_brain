@@ -11,8 +11,8 @@ created: 2026-05-07
 
 [Graph](resources/graph.md)
 [Model Articles for CLG](resources/model-articles-clg.md)
-[Sun Turtle Playbook](resources/research-sun-turtle-playbook.md)
-[Making a Reseller ISP](resources/research-making-a-reseller-isp.md)
+[Sun Turtle Playbook](resources/research-company-sun-turtle-playbook.md)
+[Making a Reseller ISP](resources/research-company-making-a-reseller-isp.md)
 [BUPA Articles of Association](resources/bupa-articles-of-association.md)
 [Green ISP Incorporation Certificate](resources/greenisp-incorporation.md)
 [Financial](resources/financial.md)

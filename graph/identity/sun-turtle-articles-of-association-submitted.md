@@ -461,13 +461,3 @@ or otherwise in connection with the exercise of their powers and the discharge o
 41. (1) The directors may purchase and maintain insurance, at the company's expense, for the benefit of any relevant director in respect of any relevant loss.
 
 (2) In this article, a "relevant director" means any director or former director of the company or an associated company. A "relevant loss" means any loss or liability incurred in connection with that director's duties or powers in relation to the company, any associated company, or any pension fund or employees' share scheme.
-
----
-
-## Schedule of subscribers
-
-We, the persons whose names and addresses are set out below, wish to be formed into a company limited by guarantee and not having a share capital under these articles of association.
-
-| Name | Address | Signature | Date |
-|------|---------|-----------|------|
-| [DIRECTOR NAME] | [ADDRESS] | | |

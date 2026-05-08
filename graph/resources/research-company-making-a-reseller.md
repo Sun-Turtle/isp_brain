@@ -179,5 +179,5 @@ Establishing an ISP in the UK as a reseller-only business requires meticulous at
 
 ## See also
 
-- [Sun Turtle Playbook — Ultra-Lean UK ISP](research-sun-turtle-playbook.md)
+- [Sun Turtle Playbook — Ultra-Lean UK ISP](research-company-sun-turtle-playbook.md)
 - [Ofcom General Conditions](../knowledge/regulatory-ofcom-general-conditions.md)

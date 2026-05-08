@@ -11,3 +11,4 @@ created: 2026-05-07
 
 [Active Tasks](tasks/active.md)
 [Blocked Tasks](tasks/blocked.md)
+[Completed Tasks](tasks/done.md)
