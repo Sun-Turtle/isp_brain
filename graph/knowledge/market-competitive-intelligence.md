@@ -2,9 +2,11 @@
 status: draft
 priority: medium
 tags:
+- knowledge
 - market
 - competitive-intelligence
 source: extract_me.md
+created: 2026-05-07
 ---
 
 # Market Landscape

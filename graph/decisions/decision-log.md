@@ -4,6 +4,7 @@ priority: medium
 tags:
 - decisions
 - log
+created: 2026-05-07
 ---
 
 # Decision Log

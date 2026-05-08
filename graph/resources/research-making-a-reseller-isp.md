@@ -2,10 +2,12 @@
 status: active
 priority: medium
 tags:
+  - resources
   - research
   - regulatory
   - guide
   - isp
+created: 2026-05-07
 ---
 
 # Making a Reseller ISP — Legal & Regulatory Guide

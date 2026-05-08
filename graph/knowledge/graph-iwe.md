@@ -2,9 +2,10 @@
 status: active
 priority: medium
 tags:
-- home
+- knowledge
 - graph
 - architecture
+created: 2026-05-07
 ---
 
 # Graph

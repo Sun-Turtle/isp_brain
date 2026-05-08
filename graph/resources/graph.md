@@ -2,9 +2,10 @@
 status: active
 priority: medium
 tags:
-- home
+- resources
 - graph
 - cli
+created: 2026-05-07
 ---
 
 # Graph

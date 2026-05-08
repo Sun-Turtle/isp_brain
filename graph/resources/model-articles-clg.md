@@ -7,6 +7,7 @@ tags:
   - clg
   - articles
 source: https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-guarantee/model-articles-for-private-companies-limited-by-guarantee
+created: 2026-05-07
 ---
 
 # Model Articles for Private Companies Limited by Guarantee

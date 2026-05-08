@@ -2,9 +2,9 @@
 status: active
 priority: high
 tags:
-  - home
   - knowledge
   - architecture
+created: 2026-05-07
 ---
 
 # The Five Domains

@@ -2,14 +2,23 @@
 status: active
 priority: high
 tags:
-  - home
+  - knowledge
   - graph
   - schema
+created: 2026-05-07
 ---
 
 # Frontmatter Schema
 
 Valid values for YAML frontmatter fields across all documents.
+
+## created
+
+Date when the document was first created. Format: `YYYY-MM-DD`. Present on all documents.
+
+```yaml
+created: 2026-05-07
+```
 
 ## status
 
@@ -51,6 +60,7 @@ tags:
   - knowledge
   - regulatory
   - compliance
+created: 2026-05-07
 ---
 ```
 

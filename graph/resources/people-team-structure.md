@@ -2,9 +2,11 @@
 status: active
 priority: medium
 tags:
+- resources
 - people
 - team
 - hiring
+created: 2026-05-07
 ---
 
 # People & Team

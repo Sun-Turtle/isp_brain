@@ -2,10 +2,11 @@
 status: draft
 priority: medium
 tags:
-- home
+- resources
 - infrastructure
+created: 2026-05-07
 ---
 
 # Infrastructure
 
-[Network Assets](network-assets.md)
+[Network Assets](infrastructure-network-assets.md)

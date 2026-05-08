@@ -2,9 +2,10 @@
 status: active
 priority: high
 tags:
-  - decision
+  - decisions
   - legal
   - structure
+created: 2026-05-07
 ---
 
 # Company Structure: Company Limited by Guarantee

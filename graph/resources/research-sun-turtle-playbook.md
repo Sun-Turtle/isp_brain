@@ -2,10 +2,12 @@
 status: active
 priority: medium
 tags:
+  - resources
   - research
   - playbook
   - strategy
   - isp
+created: 2026-05-07
 ---
 
 # Sun Turtle Playbook — Ultra-Lean UK ISP

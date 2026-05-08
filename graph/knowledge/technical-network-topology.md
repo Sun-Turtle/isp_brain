@@ -2,10 +2,12 @@
 status: active
 priority: high
 tags:
+- knowledge
 - technical
 - network
 - architecture
 source: extract_me.md
+created: 2026-05-07
 ---
 
 # Network Topology

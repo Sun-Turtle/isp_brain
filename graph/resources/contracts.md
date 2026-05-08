@@ -2,8 +2,9 @@
 status: draft
 priority: medium
 tags:
-- home
+- resources
 - contracts
+created: 2026-05-07
 ---
 
 # Contracts

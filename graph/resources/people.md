@@ -2,8 +2,9 @@
 status: active
 priority: medium
 tags:
-- home
+- resources
 - people
+created: 2026-05-07
 ---
 
 # People

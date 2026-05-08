@@ -2,10 +2,11 @@
 status: active
 priority: high
 tags:
-  - home
+  - knowledge
   - graph
   - conventions
   - workflow
+created: 2026-05-07
 ---
 
 # Graph Conventions

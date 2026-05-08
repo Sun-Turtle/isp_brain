@@ -2,10 +2,12 @@
 status: active
 priority: high
 tags:
+- knowledge
 - regulatory
 - ofcom
 - compliance
 source: extract_me.md
+created: 2026-05-07
 ---
 
 # Ofcom General Conditions

@@ -2,10 +2,11 @@
 status: active
 priority: high
 tags:
-- home
+- knowledge
 - regulatory
+created: 2026-05-07
 ---
 
 # Regulatory
 
-[Ofcom General Conditions](ofcom-general-conditions.md)
+[Ofcom General Conditions](regulatory-ofcom-general-conditions.md)

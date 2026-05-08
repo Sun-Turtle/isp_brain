@@ -2,9 +2,11 @@
 status: draft
 priority: medium
 tags:
+- resources
 - infrastructure
 - network
 - assets
+created: 2026-05-07
 ---
 
 # Network Assets

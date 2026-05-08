@@ -2,10 +2,12 @@
 status: active
 priority: high
 tags:
+- resources
 - financial
 - projections
 - model
 source: extract_me.md
+created: 2026-05-07
 ---
 
 # Financial Model

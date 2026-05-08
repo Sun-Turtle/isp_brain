@@ -5,6 +5,7 @@ tags:
   - knowledge
   - legal
   - structure
+created: 2026-05-07
 ---
 
 # Company Types for UK ISPs

@@ -5,6 +5,7 @@ tags:
   - knowledge
   - legal
   - clg
+created: 2026-05-07
 ---
 
 # Company Limited by Guarantee

@@ -2,10 +2,11 @@
 status: active
 priority: high
 tags:
-- home
+- knowledge
 - policies
+created: 2026-05-07
 ---
 
 # Policies
 
-[Complaints Handling Policy](complaints-handling.md)
+[Complaints Handling Policy](policies-complaints-handling.md)

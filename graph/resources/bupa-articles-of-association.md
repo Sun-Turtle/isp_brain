@@ -1,3 +1,15 @@
+---
+title: Bupa — Articles of Association
+status: active
+priority: low
+tags:
+  - resources
+  - legal
+  - articles
+  - reference
+created: 2026-05-07
+---
+
 # bupa-articles-of-association
 
 > Extracted from `bupa-articles-of-association.pdf` via pypdf (text extraction)

@@ -6,6 +6,7 @@ tags:
   - legal
   - clg
   - incorporation
+created: 2026-05-07
 ---
 
 # CLG Incorporation Process

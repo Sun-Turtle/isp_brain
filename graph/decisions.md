@@ -4,6 +4,7 @@ priority: medium
 tags:
   - home
   - decisions
+created: 2026-05-07
 ---
 
 # Decisions

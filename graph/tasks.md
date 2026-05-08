@@ -4,6 +4,7 @@ priority: medium
 tags:
   - home
   - tasks
+created: 2026-05-07
 ---
 
 # Tasks

@@ -2,10 +2,11 @@
 status: active
 priority: medium
 tags:
-- home
+- knowledge
 - market
+created: 2026-05-07
 ---
 
 # Market
 
-[Market Landscape](competitive-intelligence.md)
+[Market Landscape](market-competitive-intelligence.md)

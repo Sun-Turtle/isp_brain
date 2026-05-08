@@ -2,10 +2,11 @@
 status: active
 priority: medium
 tags:
-- home
+- resources
 - financial
+created: 2026-05-07
 ---
 
 # Financial
 
-[Financial Model](accounts.md)
+[Financial Model](financial-accounts.md)

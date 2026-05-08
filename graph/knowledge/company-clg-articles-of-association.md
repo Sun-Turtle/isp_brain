@@ -6,6 +6,7 @@ tags:
   - legal
   - clg
   - articles
+created: 2026-05-07
 ---
 
 # CLG Articles of Association

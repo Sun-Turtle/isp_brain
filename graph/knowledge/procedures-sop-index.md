@@ -4,6 +4,7 @@ priority: medium
 tags:
 - knowledge
 - procedures
+created: 2026-05-07
 ---
 
 # Standard Operating Procedures

@@ -2,9 +2,10 @@
 status: active
 priority: high
 tags:
-- decision
+- decisions
 - architecture
 - graph-structure
+created: 2026-05-07
 ---
 
 # File Naming Convention: Flat Structure

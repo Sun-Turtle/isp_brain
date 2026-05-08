@@ -2,10 +2,10 @@
 status: active
 priority: medium
 tags:
-  - home
   - knowledge
   - research
   - index
+created: 2026-05-07
 ---
 
 # Research Index

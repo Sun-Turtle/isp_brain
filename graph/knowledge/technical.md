@@ -2,10 +2,11 @@
 status: active
 priority: high
 tags:
-- home
+- knowledge
 - technical
+created: 2026-05-07
 ---
 
 # Technical
 
-[Network Topology](network-topology.md)
+[Network Topology](technical-network-topology.md)

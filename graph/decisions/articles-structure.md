@@ -2,9 +2,10 @@
 status: active
 priority: high
 tags:
-  - decision
+  - decisions
   - legal
   - articles
+created: 2026-05-07
 ---
 
 # Articles of Association: Structure and Company Name

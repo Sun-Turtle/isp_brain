@@ -4,6 +4,7 @@ priority: critical
 tags:
 - home
 - index
+created: 2026-05-07
 ---
 
 # Index

@@ -1,3 +1,15 @@
+---
+title: GreenISP — Certificate of Incorporation & Memorandum
+status: active
+priority: low
+tags:
+  - resources
+  - legal
+  - incorporation
+  - reference
+created: 2026-05-07
+---
+
 # greenisp-incorporation
 
 > Extracted from `greenisp-incorporation.pdf` via tesseract OCR

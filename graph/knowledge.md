@@ -4,6 +4,7 @@ priority: high
 tags:
   - home
   - knowledge
+created: 2026-05-07
 ---
 
 # Knowledge

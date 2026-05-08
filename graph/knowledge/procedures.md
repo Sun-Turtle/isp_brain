@@ -2,10 +2,11 @@
 status: draft
 priority: medium
 tags:
-- home
+- knowledge
 - procedures
+created: 2026-05-07
 ---
 
 # Procedures
 
-[Standard Operating Procedures](sop-index.md)
+[Standard Operating Procedures](procedures-sop-index.md)

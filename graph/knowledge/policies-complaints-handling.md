@@ -2,10 +2,12 @@
 status: active
 priority: high
 tags:
+- knowledge
 - policy
 - customer-operations
 - compliance
 source: extract_me.md
+created: 2026-05-07
 ---
 
 # Complaints Handling Policy
