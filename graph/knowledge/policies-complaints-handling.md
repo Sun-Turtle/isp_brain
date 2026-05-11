@@ -51,6 +51,13 @@ AI / workflow bot → human (only when needed)
 - Escalation from automated diagnosis
 - Edge cases and angry customers
 
+## Deadlock & ADR escalation
+
+If the complaint can't be resolved within 8 weeks, or both parties agree it's deadlocked earlier:
+- Issue a deadlock letter to the customer signposting to the ADR scheme
+- ADR scheme membership is mandatory — see [ADR Scheme](company-adr-scheme.md)
+
 ## See also
 
 - [Ofcom General Conditions](regulatory-ofcom-general-conditions.md)
+- [ADR Scheme](company-adr-scheme.md)

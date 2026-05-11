@@ -72,19 +72,65 @@ Outcome: Certificate of Incorporation issued by Companies House, confirming lega
 - Familiarize yourself with the Communications Act 2003, the primary legislation governing UK telecommunications.
 - Review Ofcom's General Conditions of Entitlement (GCs), which outline the regulatory framework for communications providers.
 - Ensure compliance with the GCs, which cover consumer protection, network security, and service provisioning.
+- Detailed breakdown: [Ofcom General Conditions](../knowledge/regulatory-ofcom-general-conditions.md)
 
-### Step 5: Register with Ofcom as a Communications Provider (Optional but Recommended)
+### Step 5: Set Up Core Admin Stack (NEW — pre-regulatory requirement)
 
-- Register with Ofcom to obtain a Communications Provider Identity (CP ID), especially beneficial for wholesale operations.
-- This registration enhances operational capabilities and market presence.
+Before approaching regulators or wholesalers, establish the minimum operational infrastructure:
 
-### Step 6: Comply with Network and Information Security Regulations
+- **Business bank account** — separate from personal finances; some fintechs (Tide, Starling, Monzo) are faster for CLGs than high-street banks
+- **Domain and professional email** — company-domain email (not Gmail/Hotmail) signals operational readiness to suppliers
+- **Bookkeeping system** — FreeAgent (free with some accounts), Xero, or accountant-managed; track the director's loan from day one
+- **Privacy policy** — published on website before collecting any data; covers what you collect, why, retention, sharing
+- **Terms and conditions** — consumer contract compliant with Consumer Rights Act 2015, Ofcom GCs, and distance selling regulations
+- **Complaints procedure** — published, with channels, timeframes, escalation path, and ADR signposting
+
+Wholesalers evaluate operational readiness through this stack. Having all six complete signals you're a real business. Full breakdown: [Core Admin Stack](../knowledge/company-core-admin-stack.md)
+
+### Step 6: Register with ICO (Data Protection Fee)
+
+Register with the Information Commissioner's Office before processing any personal data:
+
+- Complete the [ICO self-assessment](https://ico.org.uk/for-organisations/data-protection-fee/self-assessment/)
+- Tier 1 (micro-organisations): £40/year for small ISPs
+- Registration is mandatory for ISPs — no exemption applies
+- Receive ICO registration number and add to privacy policy
+- Must also comply with UK GDPR (lawful basis for processing, breach reporting, subject access requests)
+
+Full detail: [ICO Registration](../knowledge/company-ico-registration.md)
+
+### Step 7: Notify Ofcom (General Authorisation — NOT a licence application)
+
+Under the general authorisation regime, you notify Ofcom — you don't apply for a licence:
+
+- Complete the Ofcom notification form via their portal
+- Provide company details, service categories (fixed internet access, electronic communications service)
+- Receive a Communications Provider ID (CP ID) — some wholesalers require this
+- No fee, no approval process, 2-4 weeks to process
+- Service categories: select only what you provide (fixed broadband, VoIP if offering voice)
+- Do NOT over-declare — each category triggers specific obligations
+
+Key distinction: UK uses general authorisation, not individual licensing. This lowers barriers to entry significantly. Full detail: [Ofcom Notification](../knowledge/company-ofcom-notification.md)
+
+### Step 8: Join ADR Scheme (Mandatory for Consumer-Facing ISPs)
+
+General Condition C4 requires membership in an Ofcom-approved Alternative Dispute Resolution scheme:
+
+- **CISAS** (run by CEDR): Annual fee (~£300-600 for micro ISPs) plus ~£100-300 per adjudicated case
+- **Communications Ombudsman**: Free with ISPA membership (membership £550-950/year for small ISPs)
+- Recommended path: join ISPA → free Comm Ombudsman membership → ADR compliance + industry credibility in one
+- Add ADR details to website, complaints procedure, customer contracts, and deadlock letters
+- Green ISP uses CISAS
+
+Full detail: [ADR Scheme](../knowledge/company-adr-scheme.md)
+
+### Step 9: Comply with Network and Information Security Regulations
 
 - Implement security measures as mandated by the Network and Information Systems (NIS) Regulations 2018.
 - Adopt the Telecommunications Security Act 2021 (TSA) requirements, including internal safeguards and supply chain security reviews.
 - Ensure workforce training on cybersecurity risks and compliance.
 
-### Step 7: Adhere to Consumer Protection and Data Privacy Laws
+### Step 10: Adhere to Consumer Protection and Data Privacy Laws
 
 - Comply with the Consumer Rights Act 2015, ensuring fair trading practices and consumer redress mechanisms.
 - Follow the Privacy and Electronic Communications Regulations (PECR) for electronic marketing and data protection.
@@ -92,23 +138,23 @@ Outcome: Certificate of Incorporation issued by Companies House, confirming lega
 
 ## Phase 3: Industry Best Practices and Operational Setup
 
-### Step 8: Engage with Local Authorities and Infrastructure Providers
+### Step 11: Engage with Local Authorities and Infrastructure Providers
 
 - Consult local authorities to understand service availability and infrastructure status in your target area.
 - Identify existing broadband infrastructure and potential gaps.
 - Engage with fibre providers and negotiate leases or agreements for equipment installation.
 
-### Step 9: Join Industry Trade Bodies and Adopt Codes of Practice
+### Step 12: Join Industry Trade Bodies and Adopt Codes of Practice
 
 - Consider joining the Internet Services Providers' Association (ISPA) to benefit from their Code of Practice and industry representation.
 - Familiarize yourself with ISPA's mandatory and voluntary regulatory requirements, including customer service, contracts, complaints handling, and online safety.
 
-### Step 10: Implement Health and Safety Compliance (If Applicable)
+### Step 13: Implement Health and Safety Compliance (If Applicable)
 
 - If your ISP involves physical infrastructure deployment, comply with Safety Schemes in Procurement (SSIP) requirements.
 - Obtain SSIP certification through an accredited member scheme to demonstrate health and safety compliance.
 
-### Step 11: Establish an Information Security Management System (ISMS) and Obtain ISO 27001 Certification
+### Step 14: Establish an Information Security Management System (ISMS) and Obtain ISO 27001 Certification
 
 - Develop and implement an ISMS to manage cybersecurity risks.
 - Pursue ISO 27001 certification to demonstrate compliance with international security standards.
@@ -116,12 +162,12 @@ Outcome: Certificate of Incorporation issued by Companies House, confirming lega
 
 ## Phase 4: Client Onboarding and Market Entry
 
-### Step 12: Develop Customer Contracts and Terms of Service
+### Step 15: Develop Customer Contracts and Terms of Service
 
 - Draft customer contracts and terms of service that comply with UK consumer protection laws and Ofcom regulations.
 - Ensure transparency in pricing, service levels, and complaint handling procedures.
 
-### Step 13: Secure Your First Client
+### Step 16: Secure Your First Client
 
 - Leverage your registration with Ofcom and membership in trade bodies like ISPA to build credibility.
 - Market your services in compliance with PECR and consumer protection laws.
@@ -130,18 +176,23 @@ Outcome: Certificate of Incorporation issued by Companies House, confirming lega
 ## Summary Table of Key Milestones
 
 | Phase/Step | Description | Responsible Party | Estimated Timeline | Key Documentation |
-|---|---|---|---|---|
-| 1. Business Structure Selection | Choose legal structure (e.g., Ltd, sole trader) | Founders/legal advisor | 1–2 weeks | Business structure decision |
+|---|---|---|---|---|---|
+| 1. Business Structure Selection | Choose legal structure (e.g., Ltd, CLG) | Founders/legal advisor | 1–2 weeks | Business structure decision |
 | 2. Incorporation with Companies House | File Memorandum, Articles, IN01 form | Founders/legal advisor | 2–4 weeks | Memorandum of Association, Articles of Association, IN01 form, registration fee |
 | 3. Post-Incorporation Setup | Bank account, tax registration, VAT if applicable | Founders/accountant | 1 month | Corporation Tax registration, PAYE registration, VAT registration (if applicable) |
-| 4. Regulatory Compliance | Study Communications Act 2003, Ofcom GCs, TSA, NIS | Legal/compliance team | Ongoing | Compliance documentation, security policies |
-| 5. Ofcom Registration | Register as Communications Provider | Compliance officer | 4–6 weeks | Ofcom registration forms, CP ID application |
-| 6. Local Engagement and Infrastructure | Consult local authorities, negotiate with fibre providers | Operations/legal team | 2–3 months | Lease agreements, local authority consultations |
-| 7. Industry Best Practices | Join ISPA, adopt Code of Practice, implement ISMS | Compliance/operations team | 1–2 months | ISPA membership application, ISMS documentation |
-| 8. Health and Safety Compliance | Obtain SSIP certification if applicable | Safety officer | 1–2 months | SSIP certification documents |
-| 9. ISO 27001 Certification | Implement ISMS, obtain certification | IT/security team | 3–6 months | ISMS documentation, ISO 27001 audit reports |
-| 10. Customer Contracts and Terms | Draft compliant customer agreements | Legal team | 1 month | Customer contracts, terms of service |
-| 11. Secure First Client | Market services, engage wholesale providers | Sales/marketing team | Ongoing | Marketing materials, customer agreements |
+| 4. Regulatory Framework Study | Study Communications Act 2003, Ofcom GCs, TSA, NIS | Legal/compliance team | Ongoing | Compliance documentation, security policies |
+| 5. Core Admin Stack | Bank account, domain/email, bookkeeping, privacy policy, T&Cs, complaints procedure | Founders | 2-4 weeks | Privacy policy, T&Cs, complaints procedure |
+| 6. ICO Registration | Register for data protection fee (£40/year Tier 1) | Founders | 1 day | ICO registration certificate |
+| 7. Ofcom Notification | Notify as communications provider, get CP ID | Compliance officer | 2–4 weeks | Ofcom notification confirmation, CP ID |
+| 8. ADR Scheme Membership | Join CISAS or Comm Ombudsman (via ISPA) | Compliance officer | 1–2 weeks | ADR membership confirmation |
+| 9. Network Security Compliance | NIS Regulations, TSA requirements | Technical/compliance | Ongoing | Security policies, supply chain reviews |
+| 10. Consumer & Data Protection | Consumer Rights Act 2015, PECR, UK GDPR | Compliance officer | Ongoing | GDPR compliance documentation |
+| 11. Local Engagement and Infrastructure | Consult local authorities, negotiate with fibre providers | Operations/legal team | 2–3 months | Lease agreements, local authority consultations |
+| 12. Industry Best Practices | Join ISPA, adopt Code of Practice, implement ISMS | Compliance/operations team | 1–2 months | ISPA membership application, ISMS documentation |
+| 13. Health and Safety Compliance | Obtain SSIP certification if applicable | Safety officer | 1–2 months | SSIP certification documents |
+| 14. ISO 27001 Certification | Implement ISMS, obtain certification | IT/security team | 3–6 months | ISMS documentation, ISO 27001 audit reports |
+| 15. Customer Contracts and Terms | Draft compliant customer agreements | Legal team | 1 month | Customer contracts, terms of service |
+| 16. Secure First Client | Market services, engage wholesale providers | Sales/marketing team | Ongoing | Marketing materials, customer agreements |
 
 ## Conclusion
 
@@ -181,3 +232,7 @@ Establishing an ISP in the UK as a reseller-only business requires meticulous at
 
 - [Sun Turtle Playbook — Ultra-Lean UK ISP](research-company-sun-turtle-playbook.md)
 - [Ofcom General Conditions](../knowledge/regulatory-ofcom-general-conditions.md)
+- [Core Admin Stack](../knowledge/company-core-admin-stack.md)
+- [ICO Registration](../knowledge/company-ico-registration.md)
+- [Ofcom Notification](../knowledge/company-ofcom-notification.md)
+- [ADR Scheme](../knowledge/company-adr-scheme.md)
