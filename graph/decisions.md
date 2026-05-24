@@ -13,3 +13,5 @@ created: 2026-05-07
 [Company Structure: CLG](decisions/company-structure-clg.md)
 [Decision Log](decisions/decision-log.md)
 [File Naming Convention](decisions/flat-file-convention.md)
+[Domain: FreeThought & suninternet.co.uk](decisions/company-domain.md)
+[Bookkeeping: QuickFile](decisions/company-bookkeeping.md)

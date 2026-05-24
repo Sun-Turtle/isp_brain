@@ -23,3 +23,4 @@ created: 2026-05-07
 [Contracts Register](resources/contracts-register.md)
 [People](resources/people.md)
 [People & Team](resources/people-team-structure.md)
+[Research: ICUK Supplier](resources/research-supplier-icuk.md)

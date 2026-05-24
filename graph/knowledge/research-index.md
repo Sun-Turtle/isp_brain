@@ -30,6 +30,16 @@ Context index for research materials stored in resources. These are full documen
 - **Useful for**: Incorporation timeline, regulatory checklist, compliance planning
 - **Tags**: `research`, `guide`, `regulatory`, `legal`, `isp`
 
+## ICUK Telecoms Reseller Platform
+
+- **Where**: [ICUK Research Dump](../resources/research-supplier-icuk.md)
+- **When**: Retrieved May 2026
+- **By**: Web research on icuk.net for ISP Brain project
+- **Context**: UK wholesale telecoms platform for resellers — broadband (FTTP/SoGEA via BT Wholesale & CityFibre), hosted VoIP, Ethernet leased lines, white-label Control Panel, REST API. £20–50/mo platform fee, 800+ existing resellers. Potential one-stop wholesale + OSS/BSS partner for Sun Turtle.
+- **Useful for**: Wholesale partner evaluation, OSS/BSS make-vs-buy, VoIP product viability, OTS compliance strategy
+- **Tags**: `research`, `supplier`, `wholesale`, `voip`, `broadband`, `isp`
+
 ## See also
 
+- [ICUK Telecoms Reseller Platform](supplier-icuk-telecoms-reseller.md)
 - [Graph Conventions](graph-conventions.md)

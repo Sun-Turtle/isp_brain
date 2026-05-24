@@ -29,19 +29,15 @@ CLGs can face friction — some high-street banks don't understand the structure
 
 Professional domain matching the company name. Email on that domain — Gmail/Hotmail addresses signal hobbyist to suppliers.
 
-Must-haves:
-- Primary domain (sunturtleinternet.co.uk or similar)
-- Email (Google Workspace, Microsoft 365, or Fastmail)
-- Basic website with contact info (even a landing page)
+Chosen providers:
+- **Domain**: [FreeThought](https://www.freethought.uk/about/) (ethical registrar, UK-based) — see [decision](../../decisions/company-domain.md)
+- **Email**: TBD (Google Workspace, Microsoft 365, or Fastmail)
+
+Domain registered: `suninternet.co.uk`
 
 ### Bookkeeping
 
-From the first transaction. Options for a lean ISP:
-- FreeAgent (free with Mettle or NatWest business accounts)
-- Xero
-- Accountant-managed
-
-This is interesting and cheap: https://akaunting.com/plans
+From the first transaction. Chosen provider: [QuickFile](https://www.quickfile.co.uk/) (UK-focused, free tier) — see [decision](../../decisions/company-bookkeeping.md).
 
 Must track: director's loan (CLG startup capital), incorporation costs, domain/email subscriptions, and later wholesale invoices.
 

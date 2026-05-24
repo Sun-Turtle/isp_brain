@@ -1,5 +1,5 @@
 ---
-status: draft
+status: active
 priority: medium
 tags:
 - decisions
@@ -32,13 +32,10 @@ created: 2026-05-07
 
 **Context**: Original 7 domains (direction, health, identity, knowledge, operations, relationships, resources) had fuzzy boundaries — many topics fit 2–3 domains. **Decision**: Collapse to identity, knowledge, decisions, tasks, resources. **Rationale**: Mutually exclusive boundaries, less deliberation when placing files. **Details**: See [Domain Structure: 5 Domains](domain-structure.md).
 
-## Format
+## 2026-05-24: Domain — FreeThought and `suninternet.co.uk`
 
-``` markdown
-## YYYY-MM-DD: Title
+**Context**: The company needed a domain for email, website, and supplier credibility. Aligning the registrar choice with the CLG's ethical positioning mattered. **Decision**: Register `suninternet.co.uk` at FreeThought, a UK-based ethical registrar. **Rationale**: Ethical alignment with CLG values, UK-based, no upselling/dark patterns, `suninternet` is shorter and more brandable than `sunturtleinternet`. **Alternatives**: GoDaddy/123-Reg (misaligned values), Gandi (no UK advantage), `.uk` TLD (less recognisable than `.co.uk`). **Details**: See [Domain: FreeThought & suninternet.co.uk](company-domain.md).
 
-**Context**: What prompted the decision
-**Decision**: What was chosen
-**Rationale**: Why
-**Alternatives**: What else was considered
-```
+## 2026-05-24: Bookkeeping — QuickFile
+
+**Context**: Bookkeeping software needed from day one to track director's loan, incorporation costs, and future revenue. **Decision**: Use QuickFile (quickfile.co.uk), a UK-focused free-tier platform. **Rationale**: Free for early-stage, UK MTD/VAT compliant, no bank lock-in (unlike FreeAgent + Mettle), lighter than Xero for a pre-revenue CLG. **Alternatives**: FreeAgent (bank-locked), Xero (££ from day one), Akaunting (self-host overhead), spreadsheet (error-prone). **Details**: See [Bookkeeping: QuickFile](company-bookkeeping.md).

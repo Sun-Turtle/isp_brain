@@ -14,11 +14,11 @@ created: 2026-05-07
 | Field              | Value                                                         |
 | ------------------ | ------------------------------------------------------------- |
 | Company name       | Sun Turtle Internet Limited                                   |
-| Company number     | TBD (pending incorporation)                                   |
+| Company number     | 17211349                                                      |
 | Registered office  | TBD                                                           |
 | Jurisdiction       | England and Wales                                             |
-| Incorporation date | TBD                                                           |
-| Structure          | Company Limited by Guarantee (CLG) — see [decision](../decisions/company-structure-clg.md) |
+| Incorporation date | 24 May 2026                                                   |
+| Structure          | Private Limited by Guarantee (CLG) — see [decision](../decisions/company-structure-clg.md) |
 
 
 ## Tax
@@ -26,7 +26,7 @@ created: 2026-05-07
 | Registration          | Status                |
 | --------------------- | --------------------- |
 | VAT                   | Not yet registered    |
-| Corporation Tax (UTR) | Pending incorporation |
+| Corporation Tax (UTR) | Not yet registered    |
 | PAYE                  | Not yet required      |
 
 
@@ -44,7 +44,7 @@ created: 2026-05-07
 | ----------------- | ------------------ | ------ |
 | Core admin stack  | Not yet established | [Core Admin Stack](../knowledge/company-core-admin-stack.md) |
 | Bank account      | Not yet opened     |        |
-| Domain & email    | Not yet set up     |        |
+| Domain & email    | `suninternet.co.uk` registered — [FreeThought](https://www.freethought.uk/about/) |
 
 
 ## See also
@@ -53,3 +53,5 @@ created: 2026-05-07
 - [Company Types (Knowledge)](../knowledge/company-types.md)
 - [Company Structure Decision](../decisions/company-structure-clg.md)
 - [Core Admin Stack](../knowledge/company-core-admin-stack.md)
+- [Domain Decision](../decisions/company-domain.md)
+- [Bookkeeping Decision](../decisions/company-bookkeeping.md)

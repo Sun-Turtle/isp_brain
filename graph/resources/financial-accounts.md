@@ -60,3 +60,4 @@ created: 2026-05-07
 ## See also
 
 - [Network Assets](infrastructure-network-assets.md)
+- [Bookkeeping: QuickFile Decision](../decisions/company-bookkeeping.md)
