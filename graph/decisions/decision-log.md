@@ -39,3 +39,7 @@ created: 2026-05-07
 ## 2026-05-24: Bookkeeping — QuickFile
 
 **Context**: Bookkeeping software needed from day one to track director's loan, incorporation costs, and future revenue. **Decision**: Use QuickFile (quickfile.co.uk), a UK-focused free-tier platform. **Rationale**: Free for early-stage, UK MTD/VAT compliant, no bank lock-in (unlike FreeAgent + Mettle), lighter than Xero for a pre-revenue CLG. **Alternatives**: FreeAgent (bank-locked), Xero (££ from day one), Akaunting (self-host overhead), spreadsheet (error-prone). **Details**: See [Bookkeeping: QuickFile](company-bookkeeping.md).
+
+## 2026-05-24: Website — plain HTML/CSS, no framework
+
+**Context**: The company website needs public pages — homepage, financial transparency, complaints procedure. The tech choice reflects the company philosophy of simplicity and transparency. **Decision**: Plain HTML + CSS, no JavaScript framework, no build step, no CMS. **Rationale**: Zero dependencies, instant load, maintainable by one person, git-native editing matches the "everything in public" posture. No cookies = no consent banners. **Alternatives**: Static site generators (Hugo/Jekyll — build step for 3 pages), React/Next.js (JS runtime for text pages), WordPress (database and maintenance for 3 pages), Wix/Squarespace (vendor-locked, closed-source). **Details**: See [Website: Plain HTML/CSS, No Framework](website-stack.md).
