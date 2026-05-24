@@ -25,6 +25,10 @@ Separate from personal finances from day one. Required for:
 
 CLGs can face friction — some high-street banks don't understand the structure. Fintechs (Tide, Monzo Business, Starling) are usually faster. Expect to provide incorporation certificate and director ID.
 
+### GitHub org
+
+Official organisation: [Sun-Turtle](https://github.com/Sun-Turtle) — houses all company code, config, and infrastructure-as-code. Created alongside domain registration to match the brand identity.
+
 ### Domain & email
 
 Professional domain matching the company name. Email on that domain — Gmail/Hotmail addresses signal hobbyist to suppliers.

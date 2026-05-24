@@ -44,6 +44,7 @@ created: 2026-05-07
 | ----------------- | ------------------ | ------ |
 | Core admin stack  | Not yet established | [Core Admin Stack](../knowledge/company-core-admin-stack.md) |
 | Bank account      | Not yet opened     |        |
+| GitHub org         | [Sun-Turtle](https://github.com/Sun-Turtle)                                    |
 | Domain & email    | `suninternet.co.uk` registered — [FreeThought](https://www.freethought.uk/about/) |
 
 
