@@ -34,7 +34,8 @@ Plain HTML + CSS. No JavaScript, no framework, no build step. See [decision](../
 These items are required before serving customers but are not yet on the website:
 
 - **ADR scheme name**: Once joined, must be displayed on complaints page. Currently a placeholder note. — see [ADR Scheme](company-adr-scheme.md)
-- **Registered office address**: Currently listed as TBD. Must be added once confirmed.
+
+The registered office address is held in the knowledge graph but not published on the website — it is not a legal requirement under the E-Commerce Regulations (available via Companies House if needed).
 
 ## Design philosophy
 

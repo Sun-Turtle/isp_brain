@@ -15,7 +15,7 @@ created: 2026-05-07
 | ------------------ | ------------------------------------------------------------- |
 | Company name       | Sun Turtle Internet Limited                                   |
 | Company number     | 17211349                                                      |
-| Registered office  | TBD                                                           |
+| Registered office  | 11B Hornsey Lane Gardens, London, N6 5NX                       |
 | Jurisdiction       | England and Wales                                             |
 | Incorporation date | 24 May 2026                                                   |
 | Structure          | Private Limited by Guarantee (CLG) — see [decision](../decisions/company-structure-clg.md) |
