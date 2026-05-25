@@ -20,16 +20,17 @@ Plain HTML + CSS. No JavaScript, no framework, no build step. See [decision](../
 ## Pages
 
 | Page | Purpose | Regulatory relevance |
-|---|---|---|
-| `index.html` | Homepage — mission, what we offer, action cards (GitHub, open books, ISP Brain, complaints) | Company identity (name, number, jurisdiction) |
+|---|---|---|---|
+| `index.html` | Homepage — mission, quick action links, why we're different | Company identity (name, number, trading name disclaimer) |
+| `buy.html` | Buy Internet — availability checker, pricing table, email notification form | Consumer transparency (pricing estimates, process clarity) |
 | `open.html` | Financial transparency — costs, staff pay, surplus philosophy, monthly archive | Voluntary; trust-building |
 | `complaints.html` | Complaints procedure — channel, timeframes, ADR, Ofcom obligations | Mandatory under Ofcom General Conditions |
+| `privacy.html` | Privacy policy — what we collect, why, who we share with, your rights | Mandatory under UK GDPR |
 
 ## Regulatory gaps (pre-launch tasks)
 
 These items are required before serving customers but are not yet on the website:
 
-- **Privacy policy**: Required under UK GDPR. Must be published before collecting any personal data. Cover what we collect, why, retention periods, third-party sharing, customer rights. — see [Core Admin Stack](company-core-admin-stack.md)
 - **Terms & conditions**: Consumer contract for broadband services. Must comply with Consumer Rights Act 2015, Ofcom GCs (contract summaries, renewal notices, switching), distance selling regs. — see [Core Admin Stack](company-core-admin-stack.md)
 - **ADR scheme name**: Once joined, must be displayed on complaints page. Currently a placeholder note. — see [ADR Scheme](company-adr-scheme.md)
 - **Registered office address**: Currently listed as TBD. Must be added once confirmed.
