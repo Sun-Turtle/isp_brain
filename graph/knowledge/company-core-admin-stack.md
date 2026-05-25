@@ -41,7 +41,7 @@ Domain registered: `suninternet.co.uk`
 
 ### Bookkeeping
 
-From the first transaction. Chosen provider: [QuickFile](https://www.quickfile.co.uk/) (UK-focused, free tier) — see [decision](../../decisions/company-bookkeeping.md).
+From the first transaction. Chosen provider: [QuickFile](https://www.quickfile.co.uk/) (UK-focused, free tier, 1,000 free invoices/year, REST API) — see [decision](../../decisions/company-bookkeeping.md) and [QuickFile notes](company-quickfile.md).
 
 Must track: director's loan (CLG startup capital), incorporation costs, domain/email subscriptions, and later wholesale invoices.
 

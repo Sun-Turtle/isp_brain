@@ -21,6 +21,7 @@ created: 2026-05-07
 [Standard Operating Procedures](knowledge/procedures-sop-index.md)
 [Company](knowledge/company.md)
 [Core Admin Stack](knowledge/company-core-admin-stack.md)
+[QuickFile Bookkeeping](knowledge/company-quickfile.md)
 [ICO Registration](knowledge/company-ico-registration.md)
 [Ofcom Notification](knowledge/company-ofcom-notification.md)
 [ADR Scheme](knowledge/company-adr-scheme.md)

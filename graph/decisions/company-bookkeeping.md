@@ -21,10 +21,10 @@ Use **[QuickFile](https://www.quickfile.co.uk/)** as the bookkeeping platform.
 
 ## Rationale
 
-- **Free tier**: QuickFile has a generous free tier for small businesses — no cost until transaction volume is significant. At 500–2,000 customers this may need upgrading, but early-stage costs stay near zero.
+- **Free tier with headroom**: QuickFile allows 1,000 free invoices per year. At Sun Turtle's projected Year 1 scale (~500 customers), this is well within the free tier — zero bookkeeping cost until significant scale.
+- **API for automation**: QuickFile has a well-documented REST API for invoicing, client management, and reporting. This fits the "ISP as a software company" philosophy — billing integration, automated reconciliation, and financial dashboards can be built on top rather than manually entered.
 - **UK-focused**: Built for UK accounting — handles VAT, MTD (Making Tax Digital), corporation tax, and UK bank feeds. FreeAgent and Xero are also UK-capable but cost from day one.
 - **No lock-in**: QuickFile stores data in an accessible format. Switching to Xero or an accountant-managed setup later is straightforward.
-- **Lean ops fit**: Clean, functional interface with just enough features — no bloat. Matches the "ISP as a software company" philosophy of buying smart tools, not enterprise suites.
 - **Director's loan tracking**: CLGs rely on director's loans for startup capital. QuickFile handles loan accounts cleanly — essential for proper separation of personal and company finances from the start.
 
 ## Alternatives
