@@ -9,52 +9,59 @@ tags:
 created: 2026-05-24
 ---
 
-# Website: Plain HTML/CSS, No Framework
+# Website: Next.js (Migrated from Plain HTML)
 
 ## Context
 
-The company website needs public-facing pages for the brand identity, financial transparency, and regulatory compliance (complaints procedure). The stack choice reflects the company's philosophy: simple, fast, maintainable by a small team.
+The company website needs public-facing pages for the brand identity, financial transparency, and regulatory compliance. The stack choice reflects the company's philosophy: simple, fast, maintainable by a small team.
 
 ## Decision
 
-Build the website with **plain HTML and CSS** — no JavaScript framework, no build step, no CMS.
+Build the website with **Next.js (App Router)** with TypeScript and Tailwind CSS. Output is statically generated at build time.
 
-Files live in the `Sun-Turtle/website` repo:
-- `index.html` — homepage with mission, what we offer, quick-action cards
-- `open.html` — public financial transparency page (costs, revenue, staff pay)
-- `complaints.html` — Ofcom-compliant complaints procedure
-- `style.css` — shared minimal stylesheet
+Files live in `Sun-Turtle/website`:
+- `app/layout.tsx` — shared layout with `<head>`, metadata, footer, and theme script
+- `app/footer.tsx` — company identity footer component (reused across all pages)
+- `app/theme-toggle.tsx` / `app/theme-script.tsx` — dark/light theme with `localStorage` persistence
+- `app/page.tsx` → `/` — homepage
+- `app/buy/page.tsx` → `/buy` — availability checker (client component for form interactivity)
+- `app/about/page.tsx` → `/about` — who we are
+- `app/open/page.tsx` → `/open` — financial transparency
+- `app/complaints/page.tsx` → `/complaints` — Ofcom-compliant complaints procedure
+- `app/privacy/page.tsx` → `/privacy` — UK GDPR privacy policy
+- `app/terms/page.tsx` → `/terms` — terms and conditions
 
-## Rationale
+## Rationale (revised)
 
-- **Zero overhead**: No dependencies, no build pipeline, no node_modules. A text editor and a browser is the entire dev toolchain.
-- **Fast**: Single CSS file, semantic HTML, no JavaScript. Loads instantly on any connection — including the slow ones we'll be selling.
-- **Maintainable by one person**: Editing a page is opening a file and changing text. No content management, no database, no auth.
-- **Philosophically aligned**: The company is "human-scale internet." The website shouldn't require a JavaScript runtime just to display text.
-- **Git-native**: Changes go through git. The repo IS the CMS. This matches the "everything in public" posture — anyone can see the edit history.
+- **Component architecture**: Header, footer, and theme toggle are write-once components. Pages only contain their content. No duplication across 7 files.
+- **API integration path**: Next.js API routes (`/api/check-availability`, `/api/notify`) are baked into the framework. ICUK REST API calls can be proxied server-side — API keys stay off the client.
+- **TypeScript safety**: Props, metadata, and component interfaces prevent drift across pages.
+- **Tailwind utility classes + custom properties**: Design tokens (colors, spacing) in `globals.css` with Tailwind for layout. The accent/border/muted colors use CSS custom properties for dark mode.
+- **Static output**: `next build` produces plain HTML/CSS/JS — same deploy footprint as before. Can be served from anywhere.
+- **Maintainable by one person**: Clean separation of concerns. Adding a page is creating a folder with a `page.tsx`.
 
-## Alternatives
+## Migration from plain HTML
 
-- **Static site generators (Hugo, Jekyll, Eleventy)**: Add a build step and templating for a 3-page site. Overkill.
-- **React / Next.js / SvelteKit**: JavaScript frameworks for a text website. Contradicts the lean philosophy and adds maintenance burden.
-- **WordPress / CMS**: Database, plugins, updates, security patches — all for 3 pages. Not worth it.
-- **Wix / Squarespace**: Closed-source, vendor-locked, subscription fees. Misaligned with the open-by-default ethos.
+Initial site was built as 7 `.html` files with a single `style.css`. After discussion about component reuse and future ICUK API integration, migrated to Next.js. Content preserved verbatim — only the structure changed.
 
-## Page architecture
+The initial plain HTML decision was the right one for prototyping. Now that the site has grown to 7 pages with shared chrome, the component model pays for itself.
 
-- **Homepage** (`index.html`): "Do everything useful from here." Cards link to GitHub org, open books, ISP Brain, and complaints. Company identity in footer (company number, registered office placeholder). No upselling, no CTA buttons, no hero banners.
-- **Open books** (`open.html`): Costs table (current recurring), staff pay table (empty, with explanation of intent), surplus philosophy. Archive section for future monthly snapshots.
-- **Complaints** (`complaints.html`): Ofcom-compliant procedure — email channel, timeframes (2-day acknowledge, 10-day resolve, 8-week deadlock), ADR mention (not yet joined — flagged as pre-launch requirement).
+## Alternatives considered
+
+- **Astro**: Strong contender — zero JS by default, `.astro` components. But Next.js has deeper API route and form-handling ecosystem for future ICUK integration.
+- **SvelteKit**: Cleaner syntax, smaller bundles. But React has a larger ecosystem for forms, validation, and API integration.
+- **Plain HTML (previous)**: Worked for 7 pages but duplicated footer/nav/theme script 7 times. Adding ICUK API calls would require a separate backend.
 
 ## Impact
 
-- Website is live-ready with zero ongoing cost
-- Complaints procedure satisfies Ofcom General Conditions (published, transparent, with timeframes)
-- Financial transparency page establishes trust before a single customer signs up
-- No JavaScript means no cookies, no trackers, no consent banners needed
+- Build step required (`npm run build`) — acceptable trade-off for component reuse
+- TypeScript adds type safety at the cost of stricter authoring
+- All 7 pages statically prerendered — no server runtime needed
+- Footer, nav, theme toggle defined once, used everywhere
 
 ## See also
 
 - [Company Details](../identity/company-details.md)
 - [Core Admin Stack](../knowledge/company-core-admin-stack.md)
 - [Domain FreeThought](../decisions/company-domain.md)
+- [Website Knowledge](../knowledge/website.md)
