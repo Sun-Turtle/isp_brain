@@ -11,6 +11,7 @@ created: 2026-05-07
 
 [Complaints Handling Policy](policies-complaints-handling.md)
 [Privacy Policy](policies-privacy.md)
+[Terms and Conditions](policies-ts-and-cs.md)
 
 ## See also
 

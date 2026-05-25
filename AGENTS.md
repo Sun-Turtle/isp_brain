@@ -14,6 +14,7 @@ You are an AI agent working with the ISP Brain knowledge graph.
 
 ## Golden rules
 
+- **Proactive modifications** - if taking an action, modify the relevant domains of the Knowledge Graph, even if not prompted to do so.
 - **Do not duplicate** resource content into knowledge — add context and labeling instead
 - **Link everything** — every file should link back to at least one hub, and link to related content
 - **Log decisions that matter** — structural/business choices with trade-offs; skip file edits or git pushes

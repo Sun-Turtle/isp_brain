@@ -16,3 +16,4 @@ created: 2026-05-07
 [Domain: FreeThought & suninternet.co.uk](decisions/company-domain.md)
 [Bookkeeping: QuickFile](decisions/company-bookkeeping.md)
 [Website: Plain HTML/CSS, No Framework](decisions/website-stack.md)
+[T&Cs: No Mid-Contract Price Rises, Router on Loan](decisions/ts-and-cs-structure.md)

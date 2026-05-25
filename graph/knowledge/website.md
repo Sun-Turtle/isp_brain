@@ -20,18 +20,19 @@ Plain HTML + CSS. No JavaScript, no framework, no build step. See [decision](../
 ## Pages
 
 | Page | Purpose | Regulatory relevance |
-|---|---|---|---|
+|---|---|---|
 | `index.html` | Homepage — mission, quick action links, why we're different | Company identity (name, number, trading name disclaimer) |
 | `buy.html` | Buy Internet — availability checker, pricing table, email notification form | Consumer transparency (pricing estimates, process clarity) |
+| `about.html` | About us — who we are, why we're doing this | Voluntary; trust-building |
 | `open.html` | Financial transparency — costs, staff pay, surplus philosophy, monthly archive | Voluntary; trust-building |
 | `complaints.html` | Complaints procedure — channel, timeframes, ADR, Ofcom obligations | Mandatory under Ofcom General Conditions |
 | `privacy.html` | Privacy policy — what we collect, why, who we share with, your rights | Mandatory under UK GDPR |
+| `terms.html` | Terms and conditions — service, contract, fees, liability, ending the contract | Mandatory under Ofcom General Conditions and Consumer Rights Act 2015 |
 
 ## Regulatory gaps (pre-launch tasks)
 
 These items are required before serving customers but are not yet on the website:
 
-- **Terms & conditions**: Consumer contract for broadband services. Must comply with Consumer Rights Act 2015, Ofcom GCs (contract summaries, renewal notices, switching), distance selling regs. — see [Core Admin Stack](company-core-admin-stack.md)
 - **ADR scheme name**: Once joined, must be displayed on complaints page. Currently a placeholder note. — see [ADR Scheme](company-adr-scheme.md)
 - **Registered office address**: Currently listed as TBD. Must be added once confirmed.
 
@@ -49,4 +50,5 @@ These items are required before serving customers but are not yet on the website
 - [Company Details](../identity/company-details.md)
 - [Core Admin Stack](company-core-admin-stack.md)
 - [Privacy Policy](policies-privacy.md)
+- [Terms and Conditions](policies-ts-and-cs.md)
 - [Complaints Handling Policy](policies-complaints-handling.md)
