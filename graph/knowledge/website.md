@@ -11,23 +11,22 @@ created: 2026-05-24
 
 # Website
 
-The public-facing website lives at `suninternet.co.uk` (not yet deployed). Source code in `Sun-Turtle/website` on GitHub.
+The public-facing website is deployed at `suninternet.co.uk`. Source code in `Sun-Turtle/website` on GitHub.
 
 ## Stack
 
-Plain HTML + CSS. No JavaScript, no framework, no build step. See [decision](../decisions/website-stack.md).
+Next.js (App Router) with TypeScript and Tailwind CSS. Statically exported (`output: "export"`). Deployed via Docker (Nginx:alpine) behind a host-level Nginx reverse proxy with Let's Encrypt SSL. See [deployment architecture](infrastructure-website-deployment.md) and [stack decision](../decisions/website-stack.md).
 
 ## Pages
 
 | Page | Purpose | Regulatory relevance |
-|---|---|---|
-| `index.html` | Homepage — mission, quick action links, why we're different | Company identity (name, number, trading name disclaimer) |
-| `buy.html` | Buy Internet — availability checker, pricing table, email notification form | Consumer transparency (pricing estimates, process clarity) |
-| `about.html` | About us — who we are, why we're doing this | Voluntary; trust-building |
-| `open.html` | Financial transparency — costs, staff pay, surplus philosophy, monthly archive | Voluntary; trust-building |
-| `complaints.html` | Complaints procedure — channel, timeframes, ADR, Ofcom obligations | Mandatory under Ofcom General Conditions |
-| `privacy.html` | Privacy policy — what we collect, why, who we share with, your rights | Mandatory under UK GDPR |
-| `terms.html` | Terms and conditions — service, contract, fees, liability, ending the contract | Mandatory under Ofcom General Conditions and Consumer Rights Act 2015 |
+|---|---|---|---|---|
+| `/` | Homepage — mission, quick action links, why we're different | Company identity (name, number, trading name disclaimer) |
+| `/about` | About us — who we are, why we're doing this | Voluntary; trust-building |
+| `/open` | Financial transparency — costs, staff pay, surplus philosophy, monthly archive | Voluntary; trust-building |
+| `/complaints` | Complaints procedure — channel, timeframes, ADR, Ofcom obligations | Mandatory under Ofcom General Conditions |
+| `/privacy` | Privacy policy — what we collect, why, who we share with, your rights | Mandatory under UK GDPR |
+| `/terms` | Terms and conditions — service, contract, fees, liability, ending the contract | Mandatory under Ofcom General Conditions and Consumer Rights Act 2015 |
 
 ## Regulatory gaps (pre-launch tasks)
 
@@ -50,6 +49,7 @@ The registered office address is held in the knowledge graph but not published o
 - [Website Stack Decision](../decisions/website-stack.md)
 - [Company Details](../identity/company-details.md)
 - [Core Admin Stack](company-core-admin-stack.md)
+- [Deployment Architecture](infrastructure-website-deployment.md)
 - [Privacy Policy](policies-privacy.md)
 - [Terms and Conditions](policies-ts-and-cs.md)
 - [Complaints Handling Policy](policies-complaints-handling.md)
