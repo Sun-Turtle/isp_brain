@@ -48,4 +48,5 @@ These items are required before serving customers but are not yet on the website
 - [Website Stack Decision](../decisions/website-stack.md)
 - [Company Details](../identity/company-details.md)
 - [Core Admin Stack](company-core-admin-stack.md)
+- [Privacy Policy](policies-privacy.md)
 - [Complaints Handling Policy](policies-complaints-handling.md)
