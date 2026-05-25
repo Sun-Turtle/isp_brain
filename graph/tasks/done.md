@@ -14,3 +14,4 @@ created: 2026-05-08
 - [x] **2026-05-24** — Publish privacy policy on website (UK GDPR) — [Privacy policy](../knowledge/website.md), [Core Admin Stack](../knowledge/company-core-admin-stack.md)
 - [x] **2026-05-24** — Publish terms and conditions on website — [T&Cs](../knowledge/policies-ts-and-cs.md), [Website](../knowledge/website.md)
 - [x] **2026-05-24** — Deploy website: Docker on own server, Nginx reverse proxy, Let's Encrypt SSL — [Deployment architecture](../knowledge/infrastructure-website-deployment.md), [Deployment reference](../resources/infrastructure-website-deployment.md)
+- [x] **2026-05-24** — Open business bank account with Tide (CLG-compatible) — [Bank decision](../decisions/company-bank-tide.md), [Tide notes](../knowledge/company-tide.md)

@@ -43,7 +43,7 @@ created: 2026-05-07
 | Item              | Status             | Detail |
 | ----------------- | ------------------ | ------ |
 | Core admin stack  | Not yet established | [Core Admin Stack](../knowledge/company-core-admin-stack.md) |
-| Bank account      | Not yet opened     |        |
+| Bank account      | Tide ([Tide](https://www.tide.co/)) — see [decision](../decisions/company-bank-tide.md)     |
 | GitHub org         | [Sun-Turtle](https://github.com/Sun-Turtle)                                    |
 | Domain & email    | `suninternet.co.uk` registered — [FreeThought](https://www.freethought.uk/about/) |
 
@@ -55,4 +55,5 @@ created: 2026-05-07
 - [Company Structure Decision](../decisions/company-structure-clg.md)
 - [Core Admin Stack](../knowledge/company-core-admin-stack.md)
 - [Domain Decision](../decisions/company-domain.md)
+- [Bank Decision](../decisions/company-bank-tide.md)
 - [Bookkeeping Decision](../decisions/company-bookkeeping.md)

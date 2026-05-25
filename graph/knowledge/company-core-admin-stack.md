@@ -23,7 +23,7 @@ Separate from personal finances from day one. Required for:
 - Ofcom/ICO registration (they ask for it)
 - Credibility with wholesale partners
 
-CLGs can face friction — some high-street banks don't understand the structure. Fintechs (Tide, Monzo Business, Starling) are usually faster. Expect to provide incorporation certificate and director ID.
+Chosen provider: **[Tide](https://www.tide.co/)** — see [decision](../../decisions/company-bank-tide.md) and [Tide notes](company-tide.md). Starling and Monzo Business were tried but both rejected the CLG structure; Tide accepts CLGs.
 
 ### GitHub org
 
