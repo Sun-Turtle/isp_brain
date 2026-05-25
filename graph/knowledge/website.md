@@ -23,10 +23,11 @@ Next.js (App Router) with TypeScript and Tailwind CSS. Statically exported (`out
 |---|---|---|---|---|
 | `/` | Homepage — mission, quick action links, why we're different | Company identity (name, number, trading name disclaimer) |
 | `/about` | About us — who we are, why we're doing this | Voluntary; trust-building |
-| `/open` | Financial transparency — costs, staff pay, surplus philosophy, monthly archive | Voluntary; trust-building |
 | `/complaints` | Complaints procedure — channel, timeframes, ADR, Ofcom obligations | Mandatory under Ofcom General Conditions |
 | `/privacy` | Privacy policy — what we collect, why, who we share with, your rights | Mandatory under UK GDPR |
 | `/terms` | Terms and conditions — service, contract, fees, liability, ending the contract | Mandatory under Ofcom General Conditions and Consumer Rights Act 2015 |
+
+The `/open` (financial transparency) page was removed — not ready to publish cost figures until supplier relationships are confirmed and operational costs are real.
 
 ## Regulatory gaps (pre-launch tasks)
 
