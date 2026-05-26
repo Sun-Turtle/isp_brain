@@ -14,11 +14,11 @@ Built using [IWE](https://github.com/iwe-org/iwe). Can be interacted with by ope
 
 Are you AI? See [AGENTS.md](AGENTS.md) for additional information.
 
-## Manual Querying
+## Manual Traversing
 
 Start and traverse from [Index](index.md)
 
-## IWE Querying
+## IWE Traversing
 
 IWE is a markdown-based memory knowledge graph system. You can install it to allow more powerful interactions with the knowledge graph, but this is optional.
 
@@ -43,7 +43,7 @@ iwe find -k graph/index
 iwe find -k graph/identity/identity
 ```
 
-## IWE: Setup
+## IWE: Initial Setup
 
 ``` bash
 # Mac install

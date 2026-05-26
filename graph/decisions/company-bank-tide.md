@@ -31,10 +31,10 @@ Open a business account with **[Tide](https://www.tide.co/)**.
 
 ## Alternatives
 
-- **Starling Business**: Rejected — does not support CLG structures. The onboarding flow requires share capital fields that can't be left blank.
-- **Monzo Business**: Rejected — same issue. Their business account model expects a standard Ltd share structure.
+- **Starling Business**: Rejected — does not support CLG structures. Didn't let me sign up online.
+- **Monzo Business**: Rejected — same issue.
 - **High-street banks (Barclays, NatWest, HSBC)**: Accept CLGs on paper but require in-person branch visits, physical paperwork, and weeks of processing. Contradicts the lean ops philosophy.
-- **Mettle (NatWest)**: Free with FreeAgent integration, but also share-structure-dependent and uncertain about CLG support.
+- **Mettle (NatWest)**: Didn't try them.
 
 ## Impact
 

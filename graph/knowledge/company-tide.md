@@ -15,7 +15,7 @@ Business bank account provider for Sun Turtle. See [decision](../decisions/compa
 
 ## Key facts
 
-- **CLG-compatible**: One of few UK business banks that accepts Companies Limited by Guarantee. Starling and Monzo Business both rejected the structure (their onboarding expects share capital fields).
+- **CLG-compatible**: One of few UK business banks that accepts Companies Limited by Guarantee. Starling and Monzo Business both rejected my attempt to sign up with them. Most brick-and-mortar ones will accept us, but will take longer to sign up.
 - **Free tier**: No monthly fee for standard accounts. Transaction fees apply above certain volumes.
 - **FSCS-protected**: Deposits held with ClearBank, protected up to £85,000.
 - **Open Banking**: UK bank feeds integrate with QuickFile for automated bookkeeping.
