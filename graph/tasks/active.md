@@ -19,3 +19,5 @@ created: 2026-05-07
 - [ ] Decide: ICUK aggregation vs direct wholesale relationships — model total cost at 500/2K/8K customers including ICUK margin (62-116%), integration effort, OSS/BSS costs, and operational overhead. Key comparison points: Openreach Equinox direct vs BT Wholesale via ICUK, CityFibre direct vs ICUK, TalkTalk/PXC direct vs ICUK — [Wholesale Pricing Comparison](../knowledge/private_research-wholesale-pricing-comparison.md) (⚠️ private), [ICUK knowledge](../knowledge/supplier-icuk-telecoms-reseller.md)
 - [ ] Register with QuickFile (quickfile.co.uk) as bookkeeping software — [Core Admin Stack](../knowledge/company-core-admin-stack.md), [Company Details](../identity/company-details.md)
 - [ ] Join ADR scheme and update complaints page with scheme name — [ADR Scheme](../knowledge/company-adr-scheme.md), [Website](../knowledge/website.md)
+- [ ] Create company socials (Mastodon? Bluesky?) — establish Sun Turtle presence and community — [Company Manifesto](../identity/company-manifesto.md)
+- [ ] Add AI integration on website (simple chat-bot) — [Website](../knowledge/website.md), [Technical](../knowledge/technical.md)
