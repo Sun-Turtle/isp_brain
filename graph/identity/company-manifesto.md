@@ -11,7 +11,7 @@ created: 2026-05-24
 
 # Manifesto
 
-Published at `/manifesto` on the website. The founding statement of why Sun Internet exists and what it believes.
+Published as part of `/about` on the website (merged from a standalone `/manifesto` page). The founding statement of why Sun Internet exists and what it believes.
 
 ## Mission
 
