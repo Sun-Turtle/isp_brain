@@ -21,3 +21,4 @@ created: 2026-05-07
 - [ ] Join ADR scheme and update complaints page with scheme name — [ADR Scheme](../knowledge/company-adr-scheme.md), [Website](../knowledge/website.md)
 - [ ] Create company socials (Mastodon? Bluesky?) — establish Sun Turtle presence and community — [Company Manifesto](../identity/company-manifesto.md)
 - [ ] Add AI integration on website (simple chat-bot) — [Website](../knowledge/website.md), [Technical](../knowledge/technical.md)
+- [ ] Create knowledge graph visualisation on website — interactive graph of the company's internal knowledge structure, showing domains, relationships, and content — [Website](../knowledge/website.md), [Graph](../knowledge/graph-iwe.md)
