@@ -39,6 +39,15 @@ Context index for research materials stored in resources. These are full documen
 - **Useful for**: Wholesale partner evaluation, OSS/BSS make-vs-buy, VoIP product viability, OTS compliance strategy
 - **Tags**: `research`, `supplier`, `wholesale`, `voip`, `broadband`, `isp`
 
+## Wholesale Pricing: ICUK vs Direct (PRIVATE)
+
+- **Where**: [Wholesale Pricing Comparison](private_research-wholesale-pricing-comparison.md) (⚠️ private — gitignored)
+- **When**: Created May 2026
+- **By**: Analysis for ISP Brain project
+- **Context**: Detailed pricing comparison of ICUK platform wholesale rates vs estimated direct wholesale from Openreach, CityFibre, TalkTalk/PXC, Vodafone. Contains commercially sensitive pricing data.
+- **Useful for**: ICUK-vs-direct cost modelling, wholesale partner selection
+- **Tags**: `research`, `pricing`, `wholesale`, `private`
+
 ## See also
 
 - [ICUK Telecoms Reseller Platform](supplier-icuk-telecoms-reseller.md)

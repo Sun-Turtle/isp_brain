@@ -73,6 +73,16 @@ Do NOT log:
 
 Never duplicate resource content into knowledge. Instead, provide context: what is this resource? In which context is it useful? How is it labelled/tagged? Time relevance?
 
+## Private files
+
+Files containing commercially sensitive data (pricing, NDA'd information, internal financials) use a `private_` filename prefix:
+
+```
+private_research-wholesale-pricing-comparison.md
+```
+
+These files are gitignored via the pattern `graph/**/private_*.md`. They exist on disk for local reference but won't be committed to the repository. Hub pages and cross-references should note them with "(⚠️ private)" after the link.
+
 [Frontmatter Schema](graph-frontmatter-schema.md)
 
 ## See also

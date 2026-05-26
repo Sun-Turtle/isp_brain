@@ -77,3 +77,4 @@ ICUK could compress Sun Turtle's go-to-market puzzle into a single vendor relati
 - [Sun Turtle Playbook](../resources/research-sun-turtle-playbook.md)
 - [Technical](technical.md)
 - [Market Landscape](market-competitive-intelligence.md)
+- [Wholesale Pricing Comparison](private_research-wholesale-pricing-comparison.md) (⚠️ private)

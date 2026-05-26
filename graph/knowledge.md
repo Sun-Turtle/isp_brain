@@ -29,6 +29,7 @@ created: 2026-05-07
 [Graph](knowledge/graph-iwe.md)
 [The Five Domains](knowledge/domains.md)
 [Research Index](knowledge/research-index.md)
+[Wholesale Pricing Comparison](knowledge/private_research-wholesale-pricing-comparison.md) (⚠️ private)
 [Supplier: ICUK Telecoms Reseller Platform](knowledge/supplier-icuk-telecoms-reseller.md)
 [Website](knowledge/website.md)
 [Website Deployment Architecture](knowledge/infrastructure-website-deployment.md)
