@@ -18,3 +18,4 @@ created: 2026-05-07
 [Website: Plain HTML/CSS, No Framework](decisions/website-stack.md)
 [T&Cs: No Mid-Contract Price Rises, Router on Loan](decisions/ts-and-cs-structure.md)
 [Bank Account: Tide](decisions/company-bank-tide.md)
+[Repo: Public by Default](decisions/repo-public-by-default.md)
