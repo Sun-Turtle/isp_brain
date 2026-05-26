@@ -26,6 +26,7 @@ Next.js (App Router) with TypeScript and Tailwind CSS. Statically exported (`out
 | `/complaints` | Complaints procedure — channel, timeframes, ADR, Ofcom obligations | Mandatory under Ofcom General Conditions |
 | `/privacy` | Privacy policy — what we collect, why, who we share with, your rights | Mandatory under UK GDPR |
 | `/terms` | Terms and conditions — service, contract, fees, liability, ending the contract | Mandatory under Ofcom General Conditions and Consumer Rights Act 2015 |
+| `/manifesto` | Manifesto — mission, goals, promises, open-source roadmap | Voluntary; identity and trust-building |
 
 The `/open` (financial transparency) page was removed — not ready to publish cost figures until supplier relationships are confirmed and operational costs are real.
 
