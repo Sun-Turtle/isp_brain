@@ -29,5 +29,8 @@ Bookkeeping platform chosen for Sun Turtle. See [decision](../decisions/company-
 ## See also
 
 - [Bookkeeping Decision](../decisions/company-bookkeeping.md)
+- [QuickFile API Reference](company-quickfile-api.md)
+- [QuickFile API Permissions](company-quickfile-api-permissions.md)
+- [Director's Loan Account](../decisions/company-directors-loan-account.md)
 - [Core Admin Stack](company-core-admin-stack.md)
 - [Financial Model](../resources/financial-accounts.md)

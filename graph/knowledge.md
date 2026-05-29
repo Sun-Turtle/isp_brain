@@ -22,6 +22,8 @@ created: 2026-05-07
 [Company](knowledge/company.md)
 [Core Admin Stack](knowledge/company-core-admin-stack.md)
 [QuickFile Bookkeeping](knowledge/company-quickfile.md)
+[QuickFile API Reference](knowledge/company-quickfile-api.md)
+[QuickFile API Permissions](knowledge/company-quickfile-api-permissions.md)
 [Tide Bank Account](knowledge/company-tide.md)
 [ICO Registration](knowledge/company-ico-registration.md)
 [Ofcom Notification](knowledge/company-ofcom-notification.md)

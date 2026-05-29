@@ -15,6 +15,8 @@ created: 2026-05-07
 [File Naming Convention](decisions/flat-file-convention.md)
 [Domain: FreeThought & suninternet.co.uk](decisions/company-domain.md)
 [Bookkeeping: QuickFile](decisions/company-bookkeeping.md)
+[Automation via QuickFile API](decisions/company-quickfile-api-automation.md)
+[Director's Loan Account](decisions/company-directors-loan-account.md)
 [Website: Plain HTML/CSS, No Framework](decisions/website-stack.md)
 [T&Cs: No Mid-Contract Price Rises, Router on Loan](decisions/ts-and-cs-structure.md)
 [Bank Account: Tide](decisions/company-bank-tide.md)
